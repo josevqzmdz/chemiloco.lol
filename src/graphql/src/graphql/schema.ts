@@ -13,18 +13,15 @@ makeExecutableSchema with the typeDefs and resolvers arguments to
 create a schema that we can export from our schema.ts file.
 */
 
-module schema {
-        export function run(): any {
+        export function schema(): GraphQLSchema {
             const typeDefs = gql`${fs.readFileSync(
                 __dirname.concat('/schema.graphql'), 'utf8')}`;
                 const schema: GraphQLSchema = makeExecutableSchema({
                 typeDefs,
                 resolvers,
             });  
-                  
-        }
         // cannot use namepsace ""
         // https://codingbeautydev.com/blog/typescript-cannot-use-namespace-as-a-type/
         // To fix this error, use an export assignment to specify a default export for the namespace, like this:
-        //export = schema;  
-}
+        return schema;
+    }

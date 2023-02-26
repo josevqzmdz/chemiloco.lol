@@ -3,8 +3,8 @@ import { ApolloServer, Config, gql } from 'apollo-server-express';
 import { IResolvers } from '@graphql-tools/utils';
 import http = require('http');
 import express = require('express');
+import { schema } from './graphql/src/graphql/schema';
 // pg 53
-import { Schema } from './graphql/schema';
 const PORT = 8080;
 
 // page 29 full stack with angular and graphql
@@ -27,7 +27,11 @@ const config: Config = {
 async function startApolloServer(config: Config){
     const PORT = 8080;
     const app: Application = express();
-    const server: ApolloServer = new ApolloServer(config);
+    // https://stackoverflow.com/questions/62415099/how-do-i-fix-this-typescript-and-graphql-error
+    // I figured out a way around it by assigning schema to type of any const schema: any = mergeSchemas({ schema });
+
+    const schema1: any = ({ schema });
+    const server: ApolloServer = new ApolloServer(schema1);
     await server.start();
     server.applyMiddleware(
         {
