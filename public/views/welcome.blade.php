@@ -53,37 +53,37 @@ https://templatemo.com/tm-578-first-portfolio
                 <div class="d-flex align-items-center d-lg-none">
                     <i class="navbar-icon bi-telephone-plus me-3"></i>
                     <a class="custom-btn btn" href="#section_5">
-                        1AHHHHHHHHHHHH
+                        120-240-9600
                     </a>
                 </div>
 
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-lg-5">
                         <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_1">AHHHh!!!!!</a>
+                            <a class="nav-link click-scroll" href="#section_1">Home</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_2">REEEEEEEE</a>
+                            <a class="nav-link click-scroll" href="#section_2">About</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_3">AAAAAAAAAAAAAA</a>
+                            <a class="nav-link click-scroll" href="#section_3">Services</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_4">PIIITOOOOO</a>
+                            <a class="nav-link click-scroll" href="#section_4">Projects</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_5">PITO 2</a>
+                            <a class="nav-link click-scroll" href="#section_5">Contact</a>
                         </li>
                     </ul>
 
                     <div class="d-lg-flex align-items-center d-none ms-auto">
                         <i class="navbar-icon bi-telephone-plus me-3"></i>
                         <a class="custom-btn btn" href="#section_5">
-                            PITOOOOO
+                            120-240-9600
                         </a>
                     </div>
                 </div>
@@ -100,19 +100,19 @@ https://templatemo.com/tm-578-first-portfolio
                         <div class="col-lg-7 col-12">
                             <div class="hero-text">
                                 <div class="hero-title-wrap d-flex align-items-center mb-4">
-                                    <img src="{{asset('assets/pitochu.jpg')}}" class="avatar-image avatar-image-large img-fluid" alt="">
+                                    <img src="images/happy-bearded-young-man.jpg" class="avatar-image avatar-image-large img-fluid" alt="">
 
-                                    <h1 class="hero-title ms-3 mb-0">AHHHHH PIIIITOOOOOOOO</h1>
+                                    <h1 class="hero-title ms-3 mb-0">Hello friend!</h1>
                                 </div>
 
-                                <h2 class="mb-4">PIIIIIIITOOOOOOOOOOOO</h2>
+                                <h2 class="mb-4">I’m available for freelance work.</h2>
                                 <p class="mb-4"><a class="custom-btn btn custom-link" href="#section_2">Let's begin</a></p>
                             </div>
                         </div>
 
                         <div class="col-lg-5 col-12 position-relative">
                             <div class="hero-image-wrap"></div>
-                            <img src="{{asset('assets/pitochu.jpg')}}" class="hero-image img-fluid" alt="">
+                            <img src="images/portrait-happy-excited-man-holding-laptop-computer.png" class="hero-image img-fluid" alt="">
                         </div>
 
                     </div>
@@ -127,7 +127,7 @@ https://templatemo.com/tm-578-first-portfolio
                     <div class="row">
 
                         <div class="col-lg-6 col-12">
-                            <img src="{{asset('assets/pitochu.jpg')}}" class="about-image img-fluid" alt="">
+                            <img src="images/couple-working-from-home-together-sofa.jpg" class="about-image img-fluid" alt="">
                         </div>
 
                         <div class="col-lg-6 col-12 mt-5 mt-lg-0">
@@ -136,12 +136,14 @@ https://templatemo.com/tm-578-first-portfolio
                                 <div class="section-title-wrap d-flex justify-content-end align-items-center mb-4">
                                     <h2 class="text-white me-4 mb-0">My Story</h2>
 
-                                    <img src="{{asset('assets/pitochu.jpg')}}" class="avatar-image img-fluid" alt="">
+                                    <img src="images/happy-bearded-young-man.jpg" class="avatar-image img-fluid" alt="">
                                 </div>
 
-                                <h3 class="pt-2 mb-3">AAAAHHH PITOOOOOOO</h3>
+                                <h3 class="pt-2 mb-3">a little bit about Joshua</h3>
 
-                                <p> AAHHHH PIIIIITOOOOOOO </p>
+                                <p>This one-page HTML portfolio is provided by <a href="https://templatemo.com" target="_blank">TemplateMo</a>. This layout is based on Bootstrap v5.1.3 CSS and JS libraries. Image credits go to <a href="https://unsplash.com" target="_blank">Unsplash</a> and <a href="https://freepik.com" target="_blank">FreePik</a> for images used in this page.</p>
+
+                                <p>You are allowed to use this template for your websites. You are not allowed to redistribute the template ZIP file on any other website. Please <a href="https://templatemo.com/contact" target="_blank">contact us</a> for more info.</p>
                             </div>
                         </div>
 
@@ -161,23 +163,23 @@ https://templatemo.com/tm-578-first-portfolio
 
                                 <div class="profile-body">
                                     <p>
-                                        <span class="profile-small-title">ahhhhhh</span> 
-                                        <span>PIIIIIITOOOOOOOOO</span>
+                                        <span class="profile-small-title">Name</span> 
+                                        <span>Joshua Morgan</span>
                                     </p>
 
                                     <p>
-                                        <span class="profile-small-title">PIIIIITOOOOOOO</span> 
-                                        <span>PIIIITOOOOOO</span>
+                                        <span class="profile-small-title">Birthday</span> 
+                                        <span>Aug 12, 1986</span>
                                     </p>
 
                                     <p>
-                                        <span class="profile-small-title">AHHHHH</span> 
-                                         <span><a href="tel: 305-240-9671">PIIITOOOOOOOO</a></span>
+                                        <span class="profile-small-title">Phone</span> 
+                                         <span><a href="tel: 305-240-9671">120-240-9600</a></span>
                                     </p>
 
                                     <p>
                                         <span class="profile-small-title">Email</span> 
-                                        <span><a href="mailto:ahhhhhh@pit.o">ahhhhh@pit.o</a></span>
+                                        <span><a href="mailto:hello@josh.design">hello@josh.design</a></span>
                                     </p>
                                 </div>
                             </div>
@@ -187,27 +189,27 @@ https://templatemo.com/tm-578-first-portfolio
                             <div class="about-thumb">
                                 <div class="row">
                                     <div class="col-lg-6 col-6 featured-border-bottom py-2">
-                                        <strong class="featured-numbers">AHHHH</strong>
+                                        <strong class="featured-numbers">20+</strong>
 
-                                        <p class="featured-text">AHHHHHH PITOOOOOO</p>
+                                        <p class="featured-text">Years of Experiences</p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 featured-border-start featured-border-bottom ps-5 py-2">
-                                        <strong class="featured-numbers">AHHHHH PIIIITOOOOOO</strong>
+                                        <strong class="featured-numbers">245</strong>
 
-                                        <p class="featured-text">AAAAAAAAAAA PIIIIIIIIIIIITOOOOOOOOOOOOOOO</p>
+                                        <p class="featured-text">Happy Customers</p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 pt-4">
-                                        <strong class="featured-numbers">AAAAAAAAAAAA</strong>
+                                        <strong class="featured-numbers">640</strong>
 
-                                        <p class="featured-text">PIIIITOOOOOOOOO</p>
+                                        <p class="featured-text">Project Finished</p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 featured-border-start ps-5 pt-4">
-                                        <strong class="featured-numbers">AHHHHHHH </strong>
+                                        <strong class="featured-numbers">72+</strong>
 
-                                        <p class="featured-text">PIIIITOOOOOOO</p>
+                                        <p class="featured-text">Digital Awards</p>
                                     </div>
                                 </div>
                             </div>
@@ -223,27 +225,27 @@ https://templatemo.com/tm-578-first-portfolio
                     <div class="row align-items-center">
 
                         <div class="col-lg-12 col-12">
-                            <h3 class="text-center mb-5">AAAAAAAHHHHHHHHH PIIIIIITOOOOOOOO</h3>
+                            <h3 class="text-center mb-5">Companies I've had worked</h3>
                         </div>
 
                         <div class="col-lg-2 col-4 ms-auto clients-item-height">
-                            <img src="{{asset('assets/pitochu.jpg')}}" class="clients-image img-fluid" alt="">
+                            <img src="images/clients/cachet.svg" class="clients-image img-fluid" alt="">
                         </div>
 
                         <div class="col-lg-2 col-4 clients-item-height">
-                            <img src="{{asset('assets/pitochu.jpg')}}" class="clients-image img-fluid" alt="">
+                            <img src="images/clients/guitar-center.svg" class="clients-image img-fluid" alt="">
                         </div>
 
                         <div class="col-lg-2 col-4 clients-item-height">
-                            <img src="{{asset('assets/pitochu.jpg')}}" class="clients-image img-fluid" alt="">
+                            <img src="images/clients/tokico.svg" class="clients-image img-fluid" alt="">
                         </div>
 
                         <div class="col-lg-2 col-4 clients-item-height">
-                            <img src="{{asset('assets/pitochu.jpg')}}" class="clients-image img-fluid" alt="">
+                            <img src="images/clients/shopify.svg" class="clients-image img-fluid" alt="">
                         </div>
 
                         <div class="col-lg-2 col-4 me-auto clients-item-height">
-                            <img src="{{asset('assets/pitochu.jpg')}}" class="clients-image img-fluid" alt="">
+                            <img src="images/clients/profil-rejser.svg" class="clients-image img-fluid" alt="">
                         </div>
 
                     </div>
@@ -257,7 +259,7 @@ https://templatemo.com/tm-578-first-portfolio
 
                         <div class="col-lg-10 col-12 mx-auto">
                             <div class="section-title-wrap d-flex justify-content-center align-items-center mb-5">
-                                <img src="{{asset('assets/pitochu.jpg')}}" class="avatar-image img-fluid" alt="">
+                                <img src="images/handshake-man-woman-after-signing-business-contract-closeup.jpg" class="avatar-image img-fluid" alt="">
 
                                 <h2 class="text-white ms-4 mb-0">Services</h2>
                             </div>
@@ -266,17 +268,17 @@ https://templatemo.com/tm-578-first-portfolio
                                 <div class="col-lg-6 col-12">
                                     <div class="services-thumb">
                                         <div class="d-flex flex-wrap align-items-center border-bottom mb-4 pb-3">
-                                            <h3 class="mb-0">AHHHHHHH PIIIIITOOOOOOOO</h3>
+                                            <h3 class="mb-0">Websites</h3>
 
                                             <div class="services-price-wrap ms-auto">
-                                                <p class="services-price-text mb-0">AHHHHH PIIITOOOOOO</p>
+                                                <p class="services-price-text mb-0">$2,400</p>
                                                 <div class="services-price-overlay"></div>
                                             </div>
                                         </div>
 
-                                        <p>PIIIIIITOOOOOOOOO</p>
+                                        <p>You may want to explore Too CSS for great collection of free HTML CSS templates.</p>
 
-                                        <a href="#" class="custom-btn custom-border-btn btn mt-3">PITTTOOOOOOO</a>
+                                        <a href="#" class="custom-btn custom-border-btn btn mt-3">Discover More</a>
 
                                         <div class="services-icon-wrap d-flex justify-content-center align-items-center">
                                             <i class="services-icon bi-globe"></i>
@@ -287,16 +289,17 @@ https://templatemo.com/tm-578-first-portfolio
                                 <div class="col-lg-6 col-12">
                                     <div class="services-thumb services-thumb-up">
                                         <div class="d-flex flex-wrap align-items-center border-bottom mb-4 pb-3">
-                                            <h3 class="mb-0">AHHHHHH </h3>
+                                            <h3 class="mb-0">Branding</h3>
 
                                             <div class="services-price-wrap ms-auto">
-                                                <p class="services-price-text mb-0">PIIIITOOOOOOO</p>
+                                                <p class="services-price-text mb-0">$1,200</p>
                                                 <div class="services-price-overlay"></div>
                                             </div>
                                         </div>
-                                            <p> AHHHHHHH PIIIIIITOOOOOOOOOO </p>
 
-                                        <a href="#" class="custom-btn custom-border-btn btn mt-3">AHHHHHHHH PIIIITOOOOOO</a>
+                                        <p>You can explore more CSS templates on TemplateMo website by browsing through different tags.</p>
+
+                                        <a href="#" class="custom-btn custom-border-btn btn mt-3">Discover More</a>
 
                                         <div class="services-icon-wrap d-flex justify-content-center align-items-center">
                                             <i class="services-icon bi-lightbulb"></i>
@@ -315,8 +318,9 @@ https://templatemo.com/tm-578-first-portfolio
                                             </div>
                                         </div>
 
-                                        <p> AHHHHHH PIIIIIIITOOOOOOOOO </p>
-                                        <a href="#" class="custom-btn custom-border-btn btn mt-3">AHHHHH PIIIITOOOOOO</a>
+                                        <p>If you need a customized ecommerce website for your business, feel free to discuss with me.</p>
+
+                                        <a href="#" class="custom-btn custom-border-btn btn mt-3">Discover More</a>
 
                                         <div class="services-icon-wrap d-flex justify-content-center align-items-center">
                                             <i class="services-icon bi-phone"></i>
@@ -327,17 +331,17 @@ https://templatemo.com/tm-578-first-portfolio
                                 <div class="col-lg-6 col-12">
                                     <div class="services-thumb services-thumb-up">
                                         <div class="d-flex flex-wrap align-items-center border-bottom mb-4 pb-3">
-                                            <h3 class="mb-0">AHHHH</h3>
+                                            <h3 class="mb-0">SEO</h3>
 
                                             <div class="services-price-wrap ms-auto">
-                                                <p class="services-price-text mb-0">$pitooo</p>
+                                                <p class="services-price-text mb-0">$1,450</p>
                                                 <div class="services-price-overlay"></div>
                                             </div>
                                         </div>
 
-                                        <p> AAAHHHHHH PIIIIITOOOOOOO </p>
+                                        <p>To list your website first on any search engine, we will work together. First Portfolio is one-page CSS Template for free download.</p>
 
-                                        <a href="#" class="custom-btn custom-border-btn btn mt-3">AHHHH PIIITOOOOO</a>
+                                        <a href="#" class="custom-btn custom-border-btn btn mt-3">Discover More</a>
 
                                         <div class="services-icon-wrap d-flex justify-content-center align-items-center">
                                             <i class="services-icon bi-google"></i>
@@ -357,7 +361,7 @@ https://templatemo.com/tm-578-first-portfolio
 
                         <div class="col-lg-8 col-md-8 col-12 ms-auto">
                             <div class="section-title-wrap d-flex justify-content-center align-items-center mb-4">
-                                <img src="{{asset('assets/pitochu.jpg')}}" class="avatar-image img-fluid" alt="">
+                                <img src="images/white-desk-work-study-aesthetics.jpg" class="avatar-image img-fluid" alt="">
 
                                 <h2 class="text-white ms-4 mb-0">Projects</h2>
                             </div>
@@ -368,13 +372,13 @@ https://templatemo.com/tm-578-first-portfolio
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <small class="projects-tag">AHHHHH</small>
+                                    <small class="projects-tag">Branding</small>
 
-                                    <h3 class="projects-title">PIIITOOOOO</h3>
+                                    <h3 class="projects-title">Zoik agency</h3>
                                 </div>
 
                                 <a href="images/projects/nikhil-KO4io-eCAXA-unsplash.jpg" class="popup-image">
-                                    <img src="{{asset('assets/pitochu.jpg')}}" class="projects-image img-fluid" alt="">
+                                    <img src="images/projects/nikhil-KO4io-eCAXA-unsplash.jpg" class="projects-image img-fluid" alt="">
                                 </a>
                             </div>
                         </div>
@@ -382,13 +386,13 @@ https://templatemo.com/tm-578-first-portfolio
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <small class="projects-tag">PIIITOOOO</small>
+                                    <small class="projects-tag">Photography</small>
 
-                                    <h3 class="projects-title">PIIIITOOOOOO</h3>
+                                    <h3 class="projects-title">The Watch</h3>
                                 </div>
 
                                 <a href="images/projects/the-5th-IQYR7N67dhM-unsplash.jpg" class="popup-image">
-                                    <img src="{{asset('assets/pitochu.jpg')}}" class="projects-image img-fluid" alt="">
+                                    <img src="images/projects/the-5th-IQYR7N67dhM-unsplash.jpg" class="projects-image img-fluid" alt="">
                                 </a>
                             </div>
                         </div>
@@ -396,13 +400,13 @@ https://templatemo.com/tm-578-first-portfolio
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <small class="projects-tag">PIIIITOOOOO</small>
+                                    <small class="projects-tag">Website</small>
 
-                                    <h3 class="projects-title">PIIIITOOOOOO</h3>
+                                    <h3 class="projects-title">Polo</h3>
                                 </div>
 
                                 <a href="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" class="popup-image">
-                                    <img src="{{asset('assets/pitochu.jpg')}}" class="projects-image img-fluid" alt="">
+                                    <img src="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" class="projects-image img-fluid" alt="">
                                 </a>
                             </div>
                         </div>
@@ -417,9 +421,9 @@ https://templatemo.com/tm-578-first-portfolio
 
                             <div class="col-lg-6 col-md-8 col-12">
                                 <div class="section-title-wrap d-flex justify-content-center align-items-center mb-5">
-                                    <img src="{{asset('assets/pitochu.jpg')}}" class="avatar-image img-fluid" alt="">
+                                    <img src="images/aerial-view-man-using-computer-laptop-wooden-table.jpg" class="avatar-image img-fluid" alt="">
 
-                                    <h2 class="text-white ms-4 mb-0">AHHH PIIIITOOOOO</h2>
+                                    <h2 class="text-white ms-4 mb-0">Say Hi</h2>
                                 </div>
                             </div>
 
@@ -427,19 +431,19 @@ https://templatemo.com/tm-578-first-portfolio
 
                             <div class="col-lg-3 col-md-6 col-12 pe-lg-0">
                                 <div class="contact-info contact-info-border-start d-flex flex-column">
-                                    <strong class="site-footer-title d-block mb-3">ahhhh</strong>
+                                    <strong class="site-footer-title d-block mb-3">Services</strong>
 
                                     <ul class="footer-menu">
-                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">PITOOO</a></li>
+                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Websites</a></li>
 
-                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">PIIIITOOOOO</a></li>
+                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Branding</a></li>
 
-                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">PIIIITOOOOOOO</a></li>
+                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">Ecommerce</a></li>
 
-                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">PIIIITOOOOOO</a></li>
+                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">SEO</a></li>
                                     </ul>
 
-                                    <strong class="site-footer-title d-block mt-4 mb-3">AHHHH PIIITOOOO</strong>
+                                    <strong class="site-footer-title d-block mt-4 mb-3">Stay connected</strong>
 
                                     <ul class="social-icon">
                                         <li class="social-icon-item"><a href="https://twitter.com/minthu" class="social-icon-link bi-twitter"></a></li>
@@ -451,33 +455,33 @@ https://templatemo.com/tm-578-first-portfolio
                                         <li class="social-icon-item"><a href="https://www.youtube.com/templatemo" class="social-icon-link bi-youtube"></a></li>
                                     </ul>
 
-                                    <strong class="site-footer-title d-block mt-4 mb-3">AHHHHHHH PIIIITOOOOOO</strong>
+                                    <strong class="site-footer-title d-block mt-4 mb-3">Start a project</strong>
 
-                                    <p class="mb-0">AAAAHHHHHH PIIIITOOOOO</p>
+                                    <p class="mb-0">I’m available for freelance projects</p>
                                 </div>
                             </div>
 
                             <div class="col-lg-3 col-md-6 col-12 ps-lg-0">
                                 <div class="contact-info d-flex flex-column">
-                                    <strong class="site-footer-title d-block mb-3">ahhhhhhhh</strong>
+                                    <strong class="site-footer-title d-block mb-3">About</strong>
 
                                     <p class="mb-2">
-                                        PIIITOOOOOO
+                                        Joshua is a professional web developer. Feel free to get in touch with me.
                               </p>
 
-                                    <strong class="site-footer-title d-block mt-4 mb-3">ahhhhh</strong>
+                                    <strong class="site-footer-title d-block mt-4 mb-3">Email</strong>
 
                                     <p>
-                                        <a href="mailto:ahhhhh@pit.o">
-                                            AHHHH@PIT.O
+                                        <a href="mailto:hello@josh.design">
+                                            hello@josh.design
                                         </a>
                                     </p>
 
-                                    <strong class="site-footer-title d-block mt-4 mb-3">AAAAAAAAAA</strong>
+                                    <strong class="site-footer-title d-block mt-4 mb-3">Call</strong>
 
                                     <p class="mb-0">
                                         <a href="tel: 120-240-9600">
-                                            PITOOOOOO
+                                            120-240-9600
                                         </a>
                                     </p>
                                 </div>
@@ -490,7 +494,7 @@ https://templatemo.com/tm-578-first-portfolio
                                             <div class="form-floating">
                                                 <input type="text" name="name" id="name" class="form-control" placeholder="Name" required="">
                                                 
-                                                <label for="floatingInput">AAAAAAHHHHHH</label>
+                                                <label for="floatingInput">Name</label>
                                             </div>
                                         </div>
 
@@ -498,7 +502,7 @@ https://templatemo.com/tm-578-first-portfolio
                                             <div class="form-floating">
                                                 <input type="email" name="email" id="email" pattern="[^ @]*@[^ @]*" class="form-control" placeholder="Email address" required="">
                                                 
-                                                <label for="floatingInput">AAAAAHHHHHHHHH</label>
+                                                <label for="floatingInput">Email address</label>
                                             </div>
                                         </div>
 
@@ -519,7 +523,7 @@ https://templatemo.com/tm-578-first-portfolio
 
                                                 <label class="form-check-label" for="inlineCheckbox2">
                                                     <i class="bi-lightbulb form-check-icon"></i>
-                                                    <span class="form-check-label-text">AAAAAAAHHHHHHH</span>
+                                                    <span class="form-check-label-text">Branding</span>
                                                 </label>
                                             </div>
                                         </div>
@@ -530,7 +534,7 @@ https://templatemo.com/tm-578-first-portfolio
 
                                                 <label class="form-check-label" for="inlineCheckbox3">
                                                     <i class="bi-phone form-check-icon"></i>
-                                                    <span class="form-check-label-text">AHHHHHHHHHHHHHHHHHH</span>
+                                                    <span class="form-check-label-text">Ecommerce</span>
                                                 </label>
                                             </div>
                                         </div>
@@ -541,7 +545,7 @@ https://templatemo.com/tm-578-first-portfolio
 
                                                 <label class="form-check-label" for="inlineCheckbox4">
                                                     <i class="bi-google form-check-icon"></i>
-                                                    <span class="form-check-label-text">AAAAHHHHH</span>
+                                                    <span class="form-check-label-text">SEO</span>
                                                 </label>
                                             </div>
                                         </div>
@@ -550,12 +554,12 @@ https://templatemo.com/tm-578-first-portfolio
                                             <div class="form-floating">
                                                 <textarea class="form-control" id="message" name="message" placeholder="Tell me about the project"></textarea>
                                                 
-                                                <label for="floatingTextarea">AAAAAAAAAAAAAAHHHHHHH</label>
+                                                <label for="floatingTextarea">Tell me about the project</label>
                                             </div>
                                         </div>
 
                                         <div class="col-lg-3 col-12 ms-auto">
-                                            <button type="submit" class="form-control">AAAAHHHHHHHH</button>
+                                            <button type="submit" class="form-control">Send</button>
                                         </div>
 
                                     </div>
@@ -576,9 +580,9 @@ https://templatemo.com/tm-578-first-portfolio
                     <div class="col-lg-12 col-12">
                         <div class="copyright-text-wrap">
                             <p class="mb-0">
-                                <span class="copyright-text"> >still listening to ITAOTS unironically <a href="#">>2011</a> >mfw</span>
-                                REEEEE 
-                                <a rel="sponsored" href="#" target="_blank">AHHHH</a>
+                                <span class="copyright-text">Copyright © 2036 <a href="#">First Portfolio</a> Company. All rights reserved.</span>
+                                Design: 
+                                <a rel="sponsored" href="https://templatemo.com" target="_blank">TemplateMo</a>
                             </p>
                         </div>
                     </div>
