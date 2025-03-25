@@ -100,7 +100,7 @@ https://templatemo.com/tm-578-first-portfolio
                         <div class="col-lg-7 col-12">
                             <div class="hero-text">
                                 <div class="hero-title-wrap d-flex align-items-center mb-4">
-                                    <img src="{{asset('assets/pitochu.jpg')}}" class="avatar-image avatar-image-large img-fluid" alt="">
+                                    <img src="{{asset('pitochu.jpg')}}" class="avatar-image avatar-image-large img-fluid" alt="">
 
                                     <h1 class="hero-title ms-3 mb-0">AHHHHH PIIIITOOOOOOOO</h1>
                                 </div>
@@ -112,7 +112,7 @@ https://templatemo.com/tm-578-first-portfolio
 
                         <div class="col-lg-5 col-12 position-relative">
                             <div class="hero-image-wrap"></div>
-                            <img src="{{asset('assets/pitochu.jpg')}}" class="hero-image img-fluid" alt="">
+                            <img src="{{asset('pitochu.jpg')}}" class="hero-image img-fluid" alt="">
                         </div>
 
                     </div>
@@ -127,7 +127,7 @@ https://templatemo.com/tm-578-first-portfolio
                     <div class="row">
 
                         <div class="col-lg-6 col-12">
-                            <img src="{{asset('assets/pitochu.jpg')}}" class="about-image img-fluid" alt="">
+                            <img src="{{asset('pitochu.jpg')}}" class="about-image img-fluid" alt="">
                         </div>
 
                         <div class="col-lg-6 col-12 mt-5 mt-lg-0">
@@ -136,7 +136,7 @@ https://templatemo.com/tm-578-first-portfolio
                                 <div class="section-title-wrap d-flex justify-content-end align-items-center mb-4">
                                     <h2 class="text-white me-4 mb-0">My Story</h2>
 
-                                    <img src="{{asset('assets/pitochu.jpg')}}" class="avatar-image img-fluid" alt="">
+                                    <img src="{{asset('pitochu.jpg')}}" class="avatar-image img-fluid" alt="">
                                 </div>
 
                                 <h3 class="pt-2 mb-3">AAAAHHH PITOOOOOOO</h3>
@@ -227,23 +227,23 @@ https://templatemo.com/tm-578-first-portfolio
                         </div>
 
                         <div class="col-lg-2 col-4 ms-auto clients-item-height">
-                            <img src="{{asset('assets/pitochu.jpg')}}" class="clients-image img-fluid" alt="">
+                            <img src="{{asset('pitochu.jpg')}}" class="clients-image img-fluid" alt="">
                         </div>
 
                         <div class="col-lg-2 col-4 clients-item-height">
-                            <img src="{{asset('assets/pitochu.jpg')}}" class="clients-image img-fluid" alt="">
+                            <img src="{{asset('pitochu.jpg')}}" class="clients-image img-fluid" alt="">
                         </div>
 
                         <div class="col-lg-2 col-4 clients-item-height">
-                            <img src="{{asset('assets/pitochu.jpg')}}" class="clients-image img-fluid" alt="">
+                            <img src="{{asset('pitochu.jpg')}}" class="clients-image img-fluid" alt="">
                         </div>
 
                         <div class="col-lg-2 col-4 clients-item-height">
-                            <img src="{{asset('assets/pitochu.jpg')}}" class="clients-image img-fluid" alt="">
+                            <img src="{{asset('pitochu.jpg')}}" class="clients-image img-fluid" alt="">
                         </div>
 
                         <div class="col-lg-2 col-4 me-auto clients-item-height">
-                            <img src="{{asset('assets/pitochu.jpg')}}" class="clients-image img-fluid" alt="">
+                            <img src="{{asset('pitochu.jpg')}}" class="clients-image img-fluid" alt="">
                         </div>
 
                     </div>
@@ -257,7 +257,7 @@ https://templatemo.com/tm-578-first-portfolio
 
                         <div class="col-lg-10 col-12 mx-auto">
                             <div class="section-title-wrap d-flex justify-content-center align-items-center mb-5">
-                                <img src="{{asset('assets/pitochu.jpg')}}" class="avatar-image img-fluid" alt="">
+                                <img src="{{asset('pitochu.jpg')}}" class="avatar-image img-fluid" alt="">
 
                                 <h2 class="text-white ms-4 mb-0">Services</h2>
                             </div>
@@ -357,7 +357,7 @@ https://templatemo.com/tm-578-first-portfolio
 
                         <div class="col-lg-8 col-md-8 col-12 ms-auto">
                             <div class="section-title-wrap d-flex justify-content-center align-items-center mb-4">
-                                <img src="{{asset('assets/pitochu.jpg')}}" class="avatar-image img-fluid" alt="">
+                                <img src="{{asset('pitochu.jpg')}}" class="avatar-image img-fluid" alt="">
 
                                 <h2 class="text-white ms-4 mb-0">Projects</h2>
                             </div>
@@ -373,8 +373,8 @@ https://templatemo.com/tm-578-first-portfolio
                                     <h3 class="projects-title">PIIITOOOOO</h3>
                                 </div>
 
-                                <a href="images/projects/nikhil-KO4io-eCAXA-unsplash.jpg" class="popup-image">
-                                    <img src="{{asset('assets/pitochu.jpg')}}" class="projects-image img-fluid" alt="">
+                                <a href="#" class="popup-image">
+                                    <img src="{{asset('pitochu.jpg')}}" class="projects-image img-fluid" alt="">
                                 </a>
                             </div>
                         </div>
@@ -387,8 +387,8 @@ https://templatemo.com/tm-578-first-portfolio
                                     <h3 class="projects-title">PIIIITOOOOOO</h3>
                                 </div>
 
-                                <a href="images/projects/the-5th-IQYR7N67dhM-unsplash.jpg" class="popup-image">
-                                    <img src="{{asset('assets/pitochu.jpg')}}" class="projects-image img-fluid" alt="">
+                                <a href="#" class="popup-image">
+                                    <img src="{{asset('pitochu.jpg')}}" class="projects-image img-fluid" alt="">
                                 </a>
                             </div>
                         </div>
@@ -401,8 +401,8 @@ https://templatemo.com/tm-578-first-portfolio
                                     <h3 class="projects-title">PIIIITOOOOOO</h3>
                                 </div>
 
-                                <a href="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" class="popup-image">
-                                    <img src="{{asset('assets/pitochu.jpg')}}" class="projects-image img-fluid" alt="">
+                                <a href="#" class="popup-image">
+                                    <img src="{{asset('pitochu.jpg')}}" class="projects-image img-fluid" alt="">
                                 </a>
                             </div>
                         </div>
@@ -417,7 +417,7 @@ https://templatemo.com/tm-578-first-portfolio
 
                             <div class="col-lg-6 col-md-8 col-12">
                                 <div class="section-title-wrap d-flex justify-content-center align-items-center mb-5">
-                                    <img src="{{asset('assets/pitochu.jpg')}}" class="avatar-image img-fluid" alt="">
+                                    <img src="{{asset('pitochu.jpg')}}" class="avatar-image img-fluid" alt="">
 
                                     <h2 class="text-white ms-4 mb-0">AHHH PIIIITOOOOO</h2>
                                 </div>
@@ -442,13 +442,13 @@ https://templatemo.com/tm-578-first-portfolio
                                     <strong class="site-footer-title d-block mt-4 mb-3">AHHHH PIIITOOOO</strong>
 
                                     <ul class="social-icon">
-                                        <li class="social-icon-item"><a href="https://twitter.com/minthu" class="social-icon-link bi-twitter"></a></li>
+                                        <li class="social-icon-item"><a href="#" class="social-icon-link bi-twitter"></a></li>
 
                                         <li class="social-icon-item"><a href="#" class="social-icon-link bi-instagram"></a></li>
 
                                         <li class="social-icon-item"><a href="#" class="social-icon-link bi-pinterest"></a></li>
 
-                                        <li class="social-icon-item"><a href="https://www.youtube.com/templatemo" class="social-icon-link bi-youtube"></a></li>
+                                        <li class="social-icon-item"><a href="#" class="social-icon-link bi-youtube"></a></li>
                                     </ul>
 
                                     <strong class="site-footer-title d-block mt-4 mb-3">AHHHHHHH PIIIITOOOOOO</strong>
