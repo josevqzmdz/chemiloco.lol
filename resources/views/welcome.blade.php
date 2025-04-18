@@ -99,7 +99,7 @@
                                 </div>
 
                                 <h2 class="mb-4">y soy un ingeniero en sistemas.</h2>
-                                <p class="mb-4"><a class="custom-btn btn custom-link" href="#section_2">Este soy yo</a></p>
+                                <p class="mb-4"><a class="custom-btn btn custom-link" href="#section_2">¡Gracias por visitar mi pagina web!</a></p>
                             </div>
                         </div>
 
@@ -132,9 +132,11 @@
                                     <img src="{{asset('assets/pitochu.jpg')}}" class="avatar-image img-fluid" alt="">
                                 </div>
 
-                                <h3 class="pt-2 mb-3">Actualmente estoy trabajando como Auxiliar tecnico de IT en el empaque de aguacates "Zavocado Frutas Finas S.A. De C.V. en Periban de Ramos, Michoacan, Mexico.</h3>
+                                <p class="pt-2 mb-3">Actualmente estoy trabajando como Auxiliar tecnico de IT en el empaque de aguacates "Zavocado Frutas Finas S.A. De C.V. en Periban de Ramos, Michoacan, Mexico.</p>
 
-                                <h5> Me dedico a resolver problemas tecnicos tanto a nivel hardware (limpiar impresoras, computadores o incluso servidores) como logicos, tanto para problemas de envio de correo electronico, como reiniciar aplicaciones, e includo en el backend de los servicios utilizados, como compaqi o software privado para etiquetación de productos, etc.
+                                <p> Me dedico a resolver problemas tecnicos tanto a nivel hardware (limpiar impresoras, computadores o incluso servidores) como logicos, tanto para problemas de envio de correo electronico, como reiniciar aplicaciones, e includo en el backend de los servicios utilizados, como compaqi o software privado para etiquetación de productos, etc. </p>
+                                
+                                <p> desde Febrero 2025 hasta la fecha </p>
 
                                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3759.754498196526!2d-102.4574277!3d19.5521508!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842e41d2a54f131b%3A0x1caae3d6990f66a6!2sZavocado%20Frutas%20Finas%20S.A%20DE%20C.V.!5e0!3m2!1sen!2smx!4v1744950891772!5m2!1sen!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
@@ -182,27 +184,27 @@
                             <div class="about-thumb">
                                 <div class="row">
                                     <div class="col-lg-6 col-6 featured-border-bottom py-2">
-                                        <strong class="featured-numbers">Experiencia de Soporte TI</strong>
+                                        <h5> Casi 1 año de Experiencia de Soporte TI bilingüe para Infogen Labs Inc</h5>
 
-                                        <p class="featured-text">1 año trabajando para Infogen Labs Inc, como tecnico soporte IT L1, bilingüe.</p>
+                                        <p class="featured-text">Desde Abril 2024 hasta febrero 2025, modalidad remoto (work from home).</p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 featured-border-start featured-border-bottom ps-5 py-2">
-                                        <strong class="featured-numbers">AHHHHH PIIIITOOOOOO</strong>
+                                        <h5>1 año de experiencia trabajando como interprete bilingüe nivel L4, ingles español, para el call center "LanguageLine Solutions".</h5>
 
-                                        <p class="featured-text">AAAAAAAAAAA PIIIIIIIIIIIITOOOOOOOOOOOOOOO</p>
+                                        <p class="featured-text">Desde abril 2023 hasta abril 2024</p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 pt-4">
-                                        <strong class="featured-numbers">AAAAAAAAAAAA</strong>
+                                        <h5>Casi 1 año de experiencia como desarollador web backend para la startup mexicana "agtools"</h5>
 
-                                        <p class="featured-text">PIIIITOOOOOOOOO</p>
+                                        <p class="featured-text">Desde marzo 2022 hasta febrero 2023</p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 featured-border-start ps-5 pt-4">
-                                        <strong class="featured-numbers">AHHHHHHH </strong>
+                                        <h5>1 año de experiencia trabajando como soporte TI para el empaque "giddings" en Los Reyes, Michoacan. </h5>
 
-                                        <p class="featured-text">PIIIITOOOOOOO</p>
+                                        <p class="featured-text">Desde febrero 2021 hasta marzo 2022</p>
                                     </div>
                                 </div>
                             </div>
@@ -218,132 +220,38 @@
                     <div class="row align-items-center">
 
                         <div class="col-lg-12 col-12">
-                            <h3 class="text-center mb-5">AAAAAAAHHHHHHHHH PIIIIIITOOOOOOOO</h3>
+                            <h3 class="text-center mb-5">Mis fortalezas como ingeniero en sistemas son:</h3>
                         </div>
 
                         <div class="col-lg-2 col-4 ms-auto clients-item-height">
                             <img src="{{asset('assets/pitochu.jpg')}}" class="clients-image img-fluid" alt="">
+                            <h6> Desarollo Backend </h6>
+                            <p> Desde frameworks en javascript (svelte, Angular, node js), python (Django) y PHP (laravel), hasta pentesting (mockito, junit 5, selenium) </p>
                         </div>
 
                         <div class="col-lg-2 col-4 clients-item-height">
                             <img src="{{asset('assets/pitochu.jpg')}}" class="clients-image img-fluid" alt="">
+                            <h6> Redes informaticas </h6>
+                            <p> Creación, administracion y mantenimiento de redes nivel empresarial, tanto cableado de ethernet como administración logica de servidores, hosts, access points y usuarios finales en una red, para tanto Cisco como Fortinet </p>
                         </div>
 
                         <div class="col-lg-2 col-4 clients-item-height">
                             <img src="{{asset('assets/pitochu.jpg')}}" class="clients-image img-fluid" alt="">
+                            <h6> Soporte IT </h6>
+                            <p> Experiencia en el mundo real lidiando con sistemas windows y linux, tanto para problemas de oficina (impresoras malfuncionando, aplicaciones de correo sin funcionar, etc) como problemas mas a fondo como probar APIs o reparar equipos dañados. </p>
                         </div>
 
                         <div class="col-lg-2 col-4 clients-item-height">
                             <img src="{{asset('assets/pitochu.jpg')}}" class="clients-image img-fluid" alt="">
+                            <h6> ingles nativo y profesional </h6>
+                            <p> gracias a mi previa experiencia como interprete, y hablar ingles durante toda mi vida, puedo explicar y mantener conversaciones a fondo con tecnicismos de informatica sin problemas. </p>
                         </div>
 
-                        <div class="col-lg-2 col-4 me-auto clients-item-height">
-                            <img src="{{asset('assets/pitochu.jpg')}}" class="clients-image img-fluid" alt="">
-                        </div>
+                        
 
                     </div>
                 </div>
-            </section>
-
-
-            <section class="services section-padding" id="section_3">
-                <div class="container">
-                    <div class="row">
-
-                        <div class="col-lg-10 col-12 mx-auto">
-                            <div class="section-title-wrap d-flex justify-content-center align-items-center mb-5">
-                                <img src="{{asset('assets/pitochu.jpg')}}" class="avatar-image img-fluid" alt="">
-
-                                <h2 class="text-white ms-4 mb-0">Services</h2>
-                            </div>
-
-                            <div class="row pt-lg-5">
-                                <div class="col-lg-6 col-12">
-                                    <div class="services-thumb">
-                                        <div class="d-flex flex-wrap align-items-center border-bottom mb-4 pb-3">
-                                            <h3 class="mb-0">AHHHHHHH PIIIIITOOOOOOOO</h3>
-
-                                            <div class="services-price-wrap ms-auto">
-                                                <p class="services-price-text mb-0">AHHHHH PIIITOOOOOO</p>
-                                                <div class="services-price-overlay"></div>
-                                            </div>
-                                        </div>
-
-                                        <p>PIIIIIITOOOOOOOOO</p>
-
-                                        <a href="#" class="custom-btn custom-border-btn btn mt-3">PITTTOOOOOOO</a>
-
-                                        <div class="services-icon-wrap d-flex justify-content-center align-items-center">
-                                            <i class="services-icon bi-globe"></i>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-lg-6 col-12">
-                                    <div class="services-thumb services-thumb-up">
-                                        <div class="d-flex flex-wrap align-items-center border-bottom mb-4 pb-3">
-                                            <h3 class="mb-0">AHHHHHH </h3>
-
-                                            <div class="services-price-wrap ms-auto">
-                                                <p class="services-price-text mb-0">PIIIITOOOOOOO</p>
-                                                <div class="services-price-overlay"></div>
-                                            </div>
-                                        </div>
-                                            <p> AHHHHHHH PIIIIIITOOOOOOOOOO </p>
-
-                                        <a href="#" class="custom-btn custom-border-btn btn mt-3">AHHHHHHHH PIIIITOOOOOO</a>
-
-                                        <div class="services-icon-wrap d-flex justify-content-center align-items-center">
-                                            <i class="services-icon bi-lightbulb"></i>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-lg-6 col-12">
-                                    <div class="services-thumb">
-                                        <div class="d-flex flex-wrap align-items-center border-bottom mb-4 pb-3">
-                                            <h3 class="mb-0">Ecommerce</h3>
-
-                                            <div class="services-price-wrap ms-auto">
-                                                <p class="services-price-text mb-0">$3,600</p>
-                                                <div class="services-price-overlay"></div>
-                                            </div>
-                                        </div>
-
-                                        <p> AHHHHHH PIIIIIIITOOOOOOOOO </p>
-                                        <a href="#" class="custom-btn custom-border-btn btn mt-3">AHHHHH PIIIITOOOOOO</a>
-
-                                        <div class="services-icon-wrap d-flex justify-content-center align-items-center">
-                                            <i class="services-icon bi-phone"></i>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="col-lg-6 col-12">
-                                    <div class="services-thumb services-thumb-up">
-                                        <div class="d-flex flex-wrap align-items-center border-bottom mb-4 pb-3">
-                                            <h3 class="mb-0">AHHHH</h3>
-
-                                            <div class="services-price-wrap ms-auto">
-                                                <p class="services-price-text mb-0">$pitooo</p>
-                                                <div class="services-price-overlay"></div>
-                                            </div>
-                                        </div>
-
-                                        <p> AAAHHHHHH PIIIIITOOOOOOO </p>
-
-                                        <a href="#" class="custom-btn custom-border-btn btn mt-3">AHHHH PIIITOOOOO</a>
-
-                                        <div class="services-icon-wrap d-flex justify-content-center align-items-center">
-                                            <i class="services-icon bi-google"></i>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+            </section>                     
 
 
             <section class="projects section-padding" id="section_4">
@@ -354,7 +262,7 @@
                             <div class="section-title-wrap d-flex justify-content-center align-items-center mb-4">
                                 <img src="{{asset('assets/pitochu.jpg')}}" class="avatar-image img-fluid" alt="">
 
-                                <h2 class="text-white ms-4 mb-0">Projects</h2>
+                                <h2 class="text-white ms-4 mb-0">Proyectos</h2>
                             </div>
                         </div>
 
@@ -363,9 +271,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <small class="projects-tag">AHHHHH</small>
+                                    <small class="projects-tag">Mi pagina web</small>
 
-                                    <h3 class="projects-title">PIIITOOOOO</h3>
+                                    <h3 class="projects-title">Mi propia pagina web en laravel esta disponible en github</h3>
                                 </div>
 
                                 <a href="images/projects/nikhil-KO4io-eCAXA-unsplash.jpg" class="popup-image">
@@ -377,9 +285,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <small class="projects-tag">PIIITOOOO</small>
+                                    <small class="projects-tag">Modelo de IA para predecir el valor de bitcoin</small>
 
-                                    <h3 class="projects-title">PIIIITOOOOOO</h3>
+                                    <h3 class="projects-title">Cree un modelo de deep learning para predecir el valor de bitcoin</h3>
                                 </div>
 
                                 <a href="images/projects/the-5th-IQYR7N67dhM-unsplash.jpg" class="popup-image">
@@ -391,9 +299,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <small class="projects-tag">PIIIITOOOOO</small>
+                                    <small class="projects-tag">Servidor TCP construido desde 0 utilizando C/C++</small>
 
-                                    <h3 class="projects-title">PIIIITOOOOOO</h3>
+                                    <h3 class="projects-title">Link a github</h3>
                                 </div>
 
                                 <a href="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" class="popup-image">
@@ -406,164 +314,6 @@
                 </div>
             </section>
 
-            <section class="contact section-padding" id="section_5">
-                    <div class="container">
-                        <div class="row">
-
-                            <div class="col-lg-6 col-md-8 col-12">
-                                <div class="section-title-wrap d-flex justify-content-center align-items-center mb-5">
-                                    <img src="{{asset('assets/pitochu.jpg')}}" class="avatar-image img-fluid" alt="">
-
-                                    <h2 class="text-white ms-4 mb-0">AHHH PIIIITOOOOO</h2>
-                                </div>
-                            </div>
-
-                            <div class="clearfix"></div>
-
-                            <div class="col-lg-3 col-md-6 col-12 pe-lg-0">
-                                <div class="contact-info contact-info-border-start d-flex flex-column">
-                                    <strong class="site-footer-title d-block mb-3">ahhhh</strong>
-
-                                    <ul class="footer-menu">
-                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">PITOOO</a></li>
-
-                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">PIIIITOOOOO</a></li>
-
-                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">PIIIITOOOOOOO</a></li>
-
-                                        <li class="footer-menu-item"><a href="#" class="footer-menu-link">PIIIITOOOOOO</a></li>
-                                    </ul>
-
-                                    <strong class="site-footer-title d-block mt-4 mb-3">AHHHH PIIITOOOO</strong>
-
-                                    <ul class="social-icon">
-                                        <li class="social-icon-item"><a href="https://twitter.com/minthu" class="social-icon-link bi-twitter"></a></li>
-
-                                        <li class="social-icon-item"><a href="#" class="social-icon-link bi-instagram"></a></li>
-
-                                        <li class="social-icon-item"><a href="#" class="social-icon-link bi-pinterest"></a></li>
-
-                                        <li class="social-icon-item"><a href="https://www.youtube.com/templatemo" class="social-icon-link bi-youtube"></a></li>
-                                    </ul>
-
-                                    <strong class="site-footer-title d-block mt-4 mb-3">AHHHHHHH PIIIITOOOOOO</strong>
-
-                                    <p class="mb-0">AAAAHHHHHH PIIIITOOOOO</p>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-3 col-md-6 col-12 ps-lg-0">
-                                <div class="contact-info d-flex flex-column">
-                                    <strong class="site-footer-title d-block mb-3">ahhhhhhhh</strong>
-
-                                    <p class="mb-2">
-                                        PIIITOOOOOO
-                              </p>
-
-                                    <strong class="site-footer-title d-block mt-4 mb-3">ahhhhh</strong>
-
-                                    <p>
-                                        <a href="mailto:ahhhhh@pit.o">
-                                            AHHHH@PIT.O
-                                        </a>
-                                    </p>
-
-                                    <strong class="site-footer-title d-block mt-4 mb-3">AAAAAAAAAA</strong>
-
-                                    <p class="mb-0">
-                                        <a href="tel: 120-240-9600">
-                                            PITOOOOOO
-                                        </a>
-                                    </p>
-                                </div>
-                            </div>
-
-                            <div class="col-lg-6 col-12 mt-5 mt-lg-0">
-                                <form action="#" method="get" class="custom-form contact-form" role="form">
-                                    <div class="row">
-                                        <div class="col-lg-6 col-md-6 col-12">
-                                            <div class="form-floating">
-                                                <input type="text" name="name" id="name" class="form-control" placeholder="Name" required="">
-                                                
-                                                <label for="floatingInput">AAAAAAHHHHHH</label>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-6 col-md-6 col-12"> 
-                                            <div class="form-floating">
-                                                <input type="email" name="email" id="email" pattern="[^ @]*@[^ @]*" class="form-control" placeholder="Email address" required="">
-                                                
-                                                <label for="floatingInput">AAAAAHHHHHHHHH</label>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-3 col-md-6 col-6">
-                                            <div class="form-check form-check-inline">
-                                                <input name="website" type="checkbox" class="form-check-input" id="inlineCheckbox1" value="1">
-
-                                                <label class="form-check-label" for="inlineCheckbox1">
-                                                    <i class="bi-globe form-check-icon"></i>
-                                                    <span class="form-check-label-text">Websites</span>
-                                                </label>
-                                          </div>
-                                        </div>
-
-                                        <div class="col-lg-3 col-md-6 col-6">
-                                            <div class="form-check form-check-inline">
-                                                <input name="branding" type="checkbox" class="form-check-input" id="inlineCheckbox2" value="1">
-
-                                                <label class="form-check-label" for="inlineCheckbox2">
-                                                    <i class="bi-lightbulb form-check-icon"></i>
-                                                    <span class="form-check-label-text">AAAAAAAHHHHHHH</span>
-                                                </label>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-3 col-md-6 col-6">
-                                            <div class="form-check form-check-inline">
-                                                <input name="ecommerce" type="checkbox" class="form-check-input" id="inlineCheckbox3" value="1">
-
-                                                <label class="form-check-label" for="inlineCheckbox3">
-                                                    <i class="bi-phone form-check-icon"></i>
-                                                    <span class="form-check-label-text">AHHHHHHHHHHHHHHHHHH</span>
-                                                </label>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-3 col-md-6 col-6">
-                                            <div class="form-check form-check-inline me-0">
-                                                <input name="seo" type="checkbox" class="form-check-input" id="inlineCheckbox4" value="1">
-
-                                                <label class="form-check-label" for="inlineCheckbox4">
-                                                    <i class="bi-google form-check-icon"></i>
-                                                    <span class="form-check-label-text">AAAAHHHHH</span>
-                                                </label>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-12 col-12">
-                                            <div class="form-floating">
-                                                <textarea class="form-control" id="message" name="message" placeholder="Tell me about the project"></textarea>
-                                                
-                                                <label for="floatingTextarea">AAAAAAAAAAAAAAHHHHHHH</label>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-lg-3 col-12 ms-auto">
-                                            <button type="submit" class="form-control">AAAAHHHHHHHH</button>
-                                        </div>
-
-                                    </div>
-                                </form>
-                            </div>
-
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-        </main>
-
         <footer class="site-footer">
             <div class="container">
                 <div class="row">
@@ -571,7 +321,7 @@
                     <div class="col-lg-12 col-12">
                         <div class="copyright-text-wrap">
                             <p class="mb-0">
-                                <span class="copyright-text"> >still listening to ITAOTS unironically <a href="#">>2011</a> >mfw</span>
+                                <span class="copyright-text">  <a href="#">>2011</a> >mfw</span>
                                 REEEEE 
                                 <a rel="sponsored" href="#" target="_blank">AHHHH</a>
                             </p>
