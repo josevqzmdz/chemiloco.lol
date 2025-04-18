@@ -7,7 +7,7 @@
         <meta name="description" content="">
         <meta name="author" content="TemplateMo">
 
-        <title>First Portfolio Bootstrap 5 Theme</title>
+        <title>Chemiloco's web CV</title>
 
         <!-- CSS FILES -->
         <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -22,15 +22,8 @@
 
         <link href="{{ asset('css/magnific-popup.css') }}" rel="stylesheet">
 
-        <link href="{{ asset('css/templatemo-first-portfolio-style.css') }}" rel="stylesheet">
-        
-<!--
+        <link href="{{ asset('css/templatemo-first-portfolio-style.css') }}" rel="stylesheet">       
 
-TemplateMo 578 First Portfolio
-
-https://templatemo.com/tm-578-first-portfolio
-
--->
     </head>
     
     <body>
@@ -48,42 +41,42 @@ https://templatemo.com/tm-578-first-portfolio
                     <span class="navbar-toggler-icon"></span>
                 </button>
 
-                <a href="welcome.blade" class="navbar-brand mx-auto mx-lg-0">First</a>
+                <a href="welcome.blade" class="navbar-brand mx-auto mx-lg-0">Portafolio web de Jose Miguel</a>
 
                 <div class="d-flex align-items-center d-lg-none">
                     <i class="navbar-icon bi-telephone-plus me-3"></i>
                     <a class="custom-btn btn" href="#section_5">
-                        1AHHHHHHHHHHHH
+                        ¡Gracias por visitar mi CV web!
                     </a>
                 </div>
 
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-lg-5">
                         <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_1">AHHHh!!!!!</a>
+                            <a class="nav-link click-scroll" href="#section_1">Español</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_2">REEEEEEEE</a>
+                            <a class="nav-link click-scroll" href="#section_2">Ingles</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_3">AAAAAAAAAAAAAA</a>
+                            <a class="nav-link click-scroll" href="#section_3">Francés</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_4">PIIITOOOOO</a>
+                            <a class="nav-link click-scroll" href="#section_4">Portugues</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_5">PITO 2</a>
+                            <a class="nav-link click-scroll" href="#section_5">Sueco</a>
                         </li>
                     </ul>
 
                     <div class="d-lg-flex align-items-center d-none ms-auto">
                         <i class="navbar-icon bi-telephone-plus me-3"></i>
                         <a class="custom-btn btn" href="#section_5">
-                            PITOOOOO
+                            
                         </a>
                     </div>
                 </div>
@@ -102,11 +95,11 @@ https://templatemo.com/tm-578-first-portfolio
                                 <div class="hero-title-wrap d-flex align-items-center mb-4">
                                     <img src="{{asset('assets/pitochu.jpg')}}" class="avatar-image avatar-image-large img-fluid" alt="">
 
-                                    <h1 class="hero-title ms-3 mb-0">AHHHHH PIIIITOOOOOOOO</h1>
+                                    <h1 class="hero-title ms-3 mb-0">Mi nombre es José Miguel,</h1>
                                 </div>
 
-                                <h2 class="mb-4">PIIIIIIITOOOOOOOOOOOO</h2>
-                                <p class="mb-4"><a class="custom-btn btn custom-link" href="#section_2">Let's begin</a></p>
+                                <h2 class="mb-4">y soy un ingeniero en sistemas.</h2>
+                                <p class="mb-4"><a class="custom-btn btn custom-link" href="#section_2">Este soy yo</a></p>
                             </div>
                         </div>
 
@@ -134,14 +127,16 @@ https://templatemo.com/tm-578-first-portfolio
                             <div class="about-thumb">
 
                                 <div class="section-title-wrap d-flex justify-content-end align-items-center mb-4">
-                                    <h2 class="text-white me-4 mb-0">My Story</h2>
+                                    <h2 class="text-white me-4 mb-0">Mi experiencia laboral</h2>
 
                                     <img src="{{asset('assets/pitochu.jpg')}}" class="avatar-image img-fluid" alt="">
                                 </div>
 
-                                <h3 class="pt-2 mb-3">AAAAHHH PITOOOOOOO</h3>
+                                <h3 class="pt-2 mb-3">Actualmente estoy trabajando como Auxiliar tecnico de IT en el empaque de aguacates "Zavocado Frutas Finas S.A. De C.V. en Periban de Ramos, Michoacan, Mexico.</h3>
 
-                                <p> AAHHHH PIIIIITOOOOOOO </p>
+                                <h5> Me dedico a resolver problemas tecnicos tanto a nivel hardware (limpiar impresoras, computadores o incluso servidores) como logicos, tanto para problemas de envio de correo electronico, como reiniciar aplicaciones, e includo en el backend de los servicios utilizados, como compaqi o software privado para etiquetación de productos, etc.
+
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3759.754498196526!2d-102.4574277!3d19.5521508!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842e41d2a54f131b%3A0x1caae3d6990f66a6!2sZavocado%20Frutas%20Finas%20S.A%20DE%20C.V.!5e0!3m2!1sen!2smx!4v1744950891772!5m2!1sen!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
                         </div>
 
@@ -156,28 +151,28 @@ https://templatemo.com/tm-578-first-portfolio
                         <div class="col-lg-6 col-12">
                             <div class="profile-thumb">
                                 <div class="profile-title">
-                                    <h4 class="mb-0">Information</h4>
+                                    <h4 class="mb-0">Información</h4>
                                 </div>
 
                                 <div class="profile-body">
                                     <p>
-                                        <span class="profile-small-title">ahhhhhh</span> 
-                                        <span>PIIIIIITOOOOOOOOO</span>
+                                        <span class="profile-small-title">Estudios</span> 
+                                        <span>Graduado del Instituto Tecnologico Superior de Los Reyes (Los reyes, Michoacan, Mexico)</span>
                                     </p>
 
                                     <p>
-                                        <span class="profile-small-title">PIIIIITOOOOOOO</span> 
-                                        <span>PIIIITOOOOOO</span>
+                                        <span class="profile-small-title">Experiencia general en IT</span> 
+                                        <span>mas de 3 años trabajando tanto en sitio como remoto</span>
                                     </p>
 
                                     <p>
-                                        <span class="profile-small-title">AHHHHH</span> 
-                                         <span><a href="tel: 305-240-9671">PIIITOOOOOOOO</a></span>
+                                        <span class="profile-small-title">Idiomas</span> 
+                                         <span><a href="tel: 305-240-9671">Español e Ingles nativos. Frances conversacional.</a></span>
                                     </p>
 
                                     <p>
-                                        <span class="profile-small-title">Email</span> 
-                                        <span><a href="mailto:ahhhhhh@pit.o">ahhhhh@pit.o</a></span>
+                                        <span class="profile-small-title">Contacto</span> 
+                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Correo: jose.vqz.mdz@gmail.com</a></span>
                                     </p>
                                 </div>
                             </div>
@@ -187,9 +182,9 @@ https://templatemo.com/tm-578-first-portfolio
                             <div class="about-thumb">
                                 <div class="row">
                                     <div class="col-lg-6 col-6 featured-border-bottom py-2">
-                                        <strong class="featured-numbers">AHHHH</strong>
+                                        <strong class="featured-numbers">Experiencia de Soporte TI</strong>
 
-                                        <p class="featured-text">AHHHHHH PITOOOOOO</p>
+                                        <p class="featured-text">1 año trabajando para Infogen Labs Inc, como tecnico soporte IT L1, bilingüe.</p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 featured-border-start featured-border-bottom ps-5 py-2">
