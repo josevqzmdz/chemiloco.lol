@@ -271,9 +271,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <small class="projects-tag">Mi pagina web</small>
+                                    <h5>Esta pagina web.</h5>
 
-                                    <h3 class="projects-title">Mi propia pagina web en laravel esta disponible en github</h3>
+                                    <p href="https://github.com/josevqzmdz/chemiloco.lol/tree/master">Mi propia pagina web en laravel esta disponible en github! Link a github.</p>
                                 </div>
 
                                 <a href="images/projects/nikhil-KO4io-eCAXA-unsplash.jpg" class="popup-image">
@@ -285,9 +285,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <small class="projects-tag">Modelo de IA para predecir el valor de bitcoin</small>
+                                    <h5>Modelo de IA para predecir el valor de bitcoin</h5>
 
-                                    <h3 class="projects-title">Cree un modelo de deep learning para predecir el valor de bitcoin</h3>
+                                    <p href="https://github.com/josevqzmdz/proyecto_final_10/tree/main/BTC_Prices">Cree un modelo de deep learning para predecir el valor de bitcoin, en python. link a github.</p>
                                 </div>
 
                                 <a href="images/projects/the-5th-IQYR7N67dhM-unsplash.jpg" class="popup-image">
@@ -299,9 +299,23 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <small class="projects-tag">Servidor TCP construido desde 0 utilizando C/C++</small>
+                                    <h5 >Servidor TCP construido desde 0 utilizando C/C++</h5>
 
-                                    <h3 class="projects-title">Link a github</h3>
+                                    <p href="https://github.com/josevqzmdz/TCP_MOCK_SERVER">Link a github</p>
+                                </div>
+
+                                <a href="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" class="popup-image">
+                                    <img src="{{asset('assets/pitochu.jpg')}}" class="projects-image img-fluid" alt="">
+                                </a>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <h5 >Servidor TCP construido con mockito y JUnit 5</h5>
+
+                                    <p href="https://github.com/josevqzmdz/botnet_zavocado/tree/master">Link a github</p>
                                 </div>
 
                                 <a href="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" class="popup-image">
