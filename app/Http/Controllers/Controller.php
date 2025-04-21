@@ -6,9 +6,24 @@ use Illuminate\View\View;
 
 class Controller
 {
-    //
-    public function show(): View
+    // tbese are the controllers for each view
+    public function english(): View
     {
-        return view('welcome');
+        return view('english');
+    }
+
+    public function spanish(): View
+    {
+        return view('spanish');
+    }
+
+    public function french(): View
+    {
+        return view('french');
+    }
+
+    public function portuguese(): View
+    {
+        return view('portuguese');
     }
 }
