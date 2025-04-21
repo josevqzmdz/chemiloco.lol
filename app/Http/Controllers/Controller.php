@@ -3,27 +3,18 @@
 namespace App\Http\Controllers;
 
 use Illuminate\View\View;
+/*
+use App\Models\english;
+use App\Models\french;
+use App\Models\portuguese;
+use App\Models\spanish;
+*/
+use Illuminate\Http\Request;
 
 class Controller
 {
     // tbese are the controllers for each view
-    public function english(): View
-    {
+    public function show(): View {
         return view('english');
-    }
-
-    public function spanish(): View
-    {
-        return view('spanish');
-    }
-
-    public function french(): View
-    {
-        return view('french');
-    }
-
-    public function portuguese(): View
-    {
-        return view('portuguese');
     }
 }
