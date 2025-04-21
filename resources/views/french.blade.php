@@ -41,7 +41,7 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
 
-                <a href="welcome.blade" class="navbar-brand mx-auto mx-lg-0">Portafolio web de Jose Miguel</a>
+                <a href="{{ route('english')}}" class="navbar-brand mx-auto mx-lg-0">Portafolio web de Jose Miguel</a>
 
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-lg-5">
