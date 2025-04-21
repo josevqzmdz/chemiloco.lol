@@ -43,39 +43,26 @@
 
                 <a href="welcome.blade" class="navbar-brand mx-auto mx-lg-0">Portafolio web de Jose Miguel</a>
 
-                <div class="d-flex align-items-center d-lg-none">
-                    <i class="navbar-icon bi-telephone-plus me-3"></i>
-                    <a class="custom-btn btn" href="#section_5">
-                        ¡Gracias por visitar mi CV web!
-                    </a>
-                </div>
-
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-lg-5">
                         <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_1">Español</a>
+                            <a class="nav-link click-scroll" href="{{  route('spanish') }}">Español</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_2">Ingles</a>
+                            <a class="nav-link click-scroll" href=" {{ route('english') }}">Ingles</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_3">Francés</a>
+                            <a class="nav-link click-scroll" href="{{ route('french') }}">Francés</a>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_4">Portugues</a>
+                            <a class="nav-link click-scroll" href="{{ route('portuguese') }}">Portugues</a>
                         </li>
 
                     </ul>
 
-                    <div class="d-lg-flex align-items-center d-none ms-auto">
-                        <i class="navbar-icon bi-telephone-plus me-3"></i>
-                        <a class="custom-btn btn" href="#section_5">
-                            
-                        </a>
-                    </div>
                 </div>
 
             </div>
@@ -171,7 +158,11 @@
 
                                     <p>
                                         <span class="profile-small-title">Contacto</span> 
-                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Correo: jose.vqz.mdz@gmail.com</a></span>
+                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Correo: jose.vqz.mdz@gmail.com</a>, Telefono: (52+) 3541090470</span>
+                                    </p>
+                                    <p>
+                                        <span class="profile-small-title">Notas</span> 
+                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Si le interesa, favor de comunicarse conmigo despues de las 5pm hora guadalajara (GMT-6). Tengo pasaporte vigente pero, si llegara a obtener trabajo fuera de Mexico, requiero visa de trabajo.</span>
                                     </p>
                                 </div>
                             </div>
@@ -181,7 +172,7 @@
                             <div class="about-thumb">
                                 <div class="row">
                                     <div class="col-lg-6 col-6 featured-border-bottom py-2">
-                                        <h5> Casi 1 año de Experiencia de Soporte TI bilingüe para Infogen Labs Inc</h5>
+                                        <h5> Casi 1 año de Experiencia de Soporte TI tier L1 bilingüe para Infogen Labs Inc</h5>
 
                                         <p class="featured-text">Desde Abril 2024 hasta febrero 2025, modalidad remoto (work from home).</p>
                                     </div>
@@ -203,6 +194,18 @@
 
                                         <p class="featured-text">Desde febrero 2021 hasta marzo 2022</p>
                                     </div>
+
+                                    <div class="col-lg-6 col-6 featured-border-start ps-5 pt-4">
+                                        <h5>1 año de experiencia trabajando como soporte TI L1 para "anyness", empresa de soluciones web en Zapopan, Jalisco.</h5>
+
+                                        <p class="featured-text">Desde enero 2020 hasta febrero 2021</p>
+                                    </div>
+
+                                    <div class="col-lg-6 col-6 featured-border-start ps-5 pt-4">
+                                        <h5> casi 1 año trabajando como asistente de tecnologias en la escuela primaria / secundaria "Aprender para la vida" en Periban, Michoacan. </h5>
+
+                                        <p class="featured-text">Desde Enero 2019 hasta Diciembre 2019</p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -211,46 +214,128 @@
                 </div>
             </section>
 
-
-            <section class="clients section-padding">
+<!-- ---------------------------------------- HABILIDADES ---------------------------------- -->
+<section class="projects section-padding" id="section_4">
                 <div class="container">
-                    <div class="row align-items-center">
+                    <div class="row">
 
-                        <div class="col-lg-12 col-12">
-                            <h3 class="text-center mb-5">Mis fortalezas como ingeniero en sistemas son:</h3>
+                        <div class="col-lg-8 col-md-8 col-12 ms-auto">
+                            <div class="section-title-wrap d-flex justify-content-center align-items-center mb-4">
+                                <img src="{{asset('assets/svgs/idea.svg')}}" class="avatar-image img-fluid" alt="">
+
+                                <h2 class="text-white ms-4 mb-0">Mis fortalezas como ingeniero en sistemas son:</h2>
+                            </div>
                         </div>
 
-                        <div class="col-lg-2 col-4 ms-auto clients-item-height">
-                            <img src="{{asset('assets/svgs/server.svg')}}" class="clients-image img-fluid" alt="">
-                            <h6> Desarollo Backend </h6>
-                            <p> Desde frameworks en javascript (svelte, Angular, node js), python (Django) y PHP (laravel), hasta pentesting (mockito, junit 5, selenium) </p>
+                        <div class="clearfix"></div>
+
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <h5>Desarollo Backend</h5>
+
+                                    <p >Desde frameworks en javascript (svelte, Angular, node js), python (Django) y PHP (laravel), hasta pentesting (mockito, junit 5, selenium) </p>
+                                </div>
+
+                            </div>
                         </div>
 
-                        <div class="col-lg-2 col-4 clients-item-height">
-                            <img src="{{asset('assets/svgs/networking.svg')}}" class="clients-image img-fluid" alt="">
-                            <h6> Redes informaticas </h6>
-                            <p> Creación, administracion y mantenimiento de redes nivel empresarial, tanto cableado de ethernet como administración logica de servidores, hosts, access points y usuarios finales en una red, para tanto Cisco como Fortinet </p>
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <h5>Redes informaticas</h5>
+
+                                    <p >Creación, administracion y mantenimiento de redes nivel empresarial, tanto cableado de ethernet como administración logica de servidores, hosts, access points y usuarios finales en una red, para tanto Cisco como Fortinet </p>
+                                </div>
+
+                            </div>
                         </div>
 
-                        <div class="col-lg-2 col-4 clients-item-height">
-                            <img src="{{asset('assets/svgs/user.svg')}}" class="clients-image img-fluid" alt="">
-                            <h6> Soporte IT </h6>
-                            <p> Experiencia en el mundo real lidiando con sistemas windows y linux, tanto para problemas de oficina (impresoras malfuncionando, aplicaciones de correo sin funcionar, etc) como problemas mas a fondo como probar APIs o reparar equipos dañados. </p>
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <h5 >Soporte IT </h5>
+
+                                    <p >Experiencia en el mundo real lidiando con sistemas windows y linux, tanto para problemas de oficina (impresoras malfuncionando, aplicaciones de correo sin funcionar, etc) como problemas mas a fondo como probar APIs o reparar equipos dañados. </p>
+                                </div>
+                            </div>
                         </div>
 
-                        <div class="col-lg-2 col-4 clients-item-height">
-                            <img src="{{asset('assets/svgs/language.svg')}}" class="clients-image img-fluid" alt="">
-                            <h6> ingles nativo y profesional </h6>
-                            <p> gracias a mi previa experiencia como interprete, y hablar ingles durante toda mi vida, puedo explicar y mantener conversaciones a fondo con tecnicismos de informatica sin problemas. </p>
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <h5 >ingles nativo y profesional, frances conversacional</h5>
+
+                                    <p >Gracias a mi previa experiencia como interprete, y hablar ingles durante toda mi vida, puedo explicar y mantener conversaciones a fondo con tecnicismos de informatica sin problemas. Tambien puedo mantener conversaciones en frances.</p>
+                                </div>
+                            </div>
                         </div>
 
-                        
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <h5 >Analisis de red / pentesting</h5>
+
+                                    <p > Conocimientos a profundidad en analisis de paquetes TCP y otros protocolos de red, utilizando herramientas como wireshark y GHIDRA para ingenieria reversa, para detecar potencial malware y demas ataques en una red empresarial. </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <h5 >Uso de APIs</h5>
+
+                                    <p > Tengo experiencia utilizando diferentes APIs como shopify plus y otro software privado de las varias empresas donde he trabajado, utilizando RESTful u otras interfaces como graphql. </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <h5 >Conocimientos en sistemas de administración de usuarios, como Azure Active Directory y OKTA / workday.</h5>
+
+                                    <p > He utilizado por mas de 2 años los sistemas de administración de usuarios, tanto a nivel GUI como por consola y scripts, de OKTA y Active Directory. Desde sencilla restauración de credenciales personales, hasta crear nuevos grupos administrativos para nuevas secciones en las empresas. </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <h5 >Experiencia con sistemas de tickets y documentación como Service Now y Zendesk.</h5>
+
+                                    <p > He utilizado por mas de 2 años estas herramientas de documentación y resolución de problemas, haciendo un buen habito de documentar lo mas claro posible los problemas y como se solucionaron. </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <h5 > Experiencia y manejo de software para acceso remoto tipo TeamViewer y Anydesk</h5>
+
+                                    <p > He utilizado estas herramientas, asi como acceso remoto nativo de windows e inicio de sesion por SSH a servidores, a lo largo de mi carrera y estoy adaptado a las configuraciones y entorno de trabajo que estas herramientas otorgan. </p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <h5 >Lenguajes y esquemas de programación</h5>
+
+                                    <p > Si bien tengo conocimientos de python, C/C++, Java y ruby on rails, mis lenguajes de programación donde tengo mayor solvencia mental y experiencia son: Javascript/Typescript, PHP, HTML 5, SQL, NoSQL y GraphQL. </p>
+                                </div>
+                            </div>
+                        </div>
 
                     </div>
                 </div>
-            </section>                     
+            </section>                   
 
-
+<!-- ---------------------------------------- PROYECTOS ---------------------------------- -->
             <section class="projects section-padding" id="section_4">
                 <div class="container">
                     <div class="row">
@@ -307,11 +392,31 @@
                             </div>
                         </div>
 
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <h5 >Scripts de web scrapping / pen testing en selenium</h5>
+
+                                    <p href="https://github.com/josevqzmdz/selenium_testing"> scripts en python para hacer pruebas en la herramienta privada de agtools. Link a github.</p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <h5 >Proyecto personal de shopify en ruby on rails</h5>
+
+                                    <p href="https://github.com/josevqzmdz/selenium_testing"> Pequeño proyecto de shopify para probar y experimentar con la API, construido en ruby on rails.</p>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </section>
 
-        
+        <!-- footer -->
         <footer class="site-footer">
             <div class="container">
                 <div class="row">
