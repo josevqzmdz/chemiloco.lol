@@ -68,9 +68,6 @@
                             <a class="nav-link click-scroll" href="#section_4">Portugues</a>
                         </li>
 
-                        <li class="nav-item">
-                            <a class="nav-link click-scroll" href="#section_5">Sueco</a>
-                        </li>
                     </ul>
 
                     <div class="d-lg-flex align-items-center d-none ms-auto">
@@ -93,7 +90,7 @@
                         <div class="col-lg-7 col-12">
                             <div class="hero-text">
                                 <div class="hero-title-wrap d-flex align-items-center mb-4">
-                                    <img src="{{asset('assets/pitochu.jpg')}}" class="avatar-image avatar-image-large img-fluid" alt="">
+                                    <img src="{{asset('assets/images/me_irl3.png')}}" class="avatar-image avatar-image-large img-fluid" alt="">
 
                                     <h1 class="hero-title ms-3 mb-0">Mi nombre es José Miguel,</h1>
                                 </div>
@@ -105,7 +102,7 @@
 
                         <div class="col-lg-5 col-12 position-relative">
                             <div class="hero-image-wrap"></div>
-                            <img src="{{asset('assets/pitochu.jpg')}}" class="hero-image img-fluid" alt="">
+                            <img src="{{asset('assets/images/me_irl.png')}}" class="hero-image img-fluid" alt="">
                         </div>
 
                     </div>
@@ -120,7 +117,7 @@
                     <div class="row">
 
                         <div class="col-lg-6 col-12">
-                            <img src="{{asset('assets/pitochu.jpg')}}" class="about-image img-fluid" alt="">
+                            <img src="{{asset('assets/svgs/my_story.svg')}}" class="about-image img-fluid" alt="">
                         </div>
 
                         <div class="col-lg-6 col-12 mt-5 mt-lg-0">
@@ -129,7 +126,7 @@
                                 <div class="section-title-wrap d-flex justify-content-end align-items-center mb-4">
                                     <h2 class="text-white me-4 mb-0">Mi experiencia laboral</h2>
 
-                                    <img src="{{asset('assets/pitochu.jpg')}}" class="avatar-image img-fluid" alt="">
+                                    <img src="{{asset('assets/svgs/worker.svg')}}" class="avatar-image img-fluid" alt="">
                                 </div>
 
                                 <p class="pt-2 mb-3">Actualmente estoy trabajando como Auxiliar tecnico de IT en el empaque de aguacates "Zavocado Frutas Finas S.A. De C.V. en Periban de Ramos, Michoacan, Mexico.</p>
@@ -224,25 +221,25 @@
                         </div>
 
                         <div class="col-lg-2 col-4 ms-auto clients-item-height">
-                            <img src="{{asset('assets/pitochu.jpg')}}" class="clients-image img-fluid" alt="">
+                            <img src="{{asset('assets/svgs/server.svg')}}" class="clients-image img-fluid" alt="">
                             <h6> Desarollo Backend </h6>
                             <p> Desde frameworks en javascript (svelte, Angular, node js), python (Django) y PHP (laravel), hasta pentesting (mockito, junit 5, selenium) </p>
                         </div>
 
                         <div class="col-lg-2 col-4 clients-item-height">
-                            <img src="{{asset('assets/pitochu.jpg')}}" class="clients-image img-fluid" alt="">
+                            <img src="{{asset('assets/svgs/networking.svg')}}" class="clients-image img-fluid" alt="">
                             <h6> Redes informaticas </h6>
                             <p> Creación, administracion y mantenimiento de redes nivel empresarial, tanto cableado de ethernet como administración logica de servidores, hosts, access points y usuarios finales en una red, para tanto Cisco como Fortinet </p>
                         </div>
 
                         <div class="col-lg-2 col-4 clients-item-height">
-                            <img src="{{asset('assets/pitochu.jpg')}}" class="clients-image img-fluid" alt="">
+                            <img src="{{asset('assets/svgs/user.svg')}}" class="clients-image img-fluid" alt="">
                             <h6> Soporte IT </h6>
                             <p> Experiencia en el mundo real lidiando con sistemas windows y linux, tanto para problemas de oficina (impresoras malfuncionando, aplicaciones de correo sin funcionar, etc) como problemas mas a fondo como probar APIs o reparar equipos dañados. </p>
                         </div>
 
                         <div class="col-lg-2 col-4 clients-item-height">
-                            <img src="{{asset('assets/pitochu.jpg')}}" class="clients-image img-fluid" alt="">
+                            <img src="{{asset('assets/svgs/language.svg')}}" class="clients-image img-fluid" alt="">
                             <h6> ingles nativo y profesional </h6>
                             <p> gracias a mi previa experiencia como interprete, y hablar ingles durante toda mi vida, puedo explicar y mantener conversaciones a fondo con tecnicismos de informatica sin problemas. </p>
                         </div>
@@ -260,7 +257,7 @@
 
                         <div class="col-lg-8 col-md-8 col-12 ms-auto">
                             <div class="section-title-wrap d-flex justify-content-center align-items-center mb-4">
-                                <img src="{{asset('assets/pitochu.jpg')}}" class="avatar-image img-fluid" alt="">
+                                <img src="{{asset('assets/svgs/idea.svg')}}" class="avatar-image img-fluid" alt="">
 
                                 <h2 class="text-white ms-4 mb-0">Proyectos</h2>
                             </div>
@@ -276,9 +273,6 @@
                                     <p href="https://github.com/josevqzmdz/chemiloco.lol/tree/master">Mi propia pagina web en laravel esta disponible en github! Link a github.</p>
                                 </div>
 
-                                <a href="images/projects/nikhil-KO4io-eCAXA-unsplash.jpg" class="popup-image">
-                                    <img src="{{asset('assets/pitochu.jpg')}}" class="projects-image img-fluid" alt="">
-                                </a>
                             </div>
                         </div>
 
@@ -290,9 +284,6 @@
                                     <p href="https://github.com/josevqzmdz/proyecto_final_10/tree/main/BTC_Prices">Cree un modelo de deep learning para predecir el valor de bitcoin, en python. link a github.</p>
                                 </div>
 
-                                <a href="images/projects/the-5th-IQYR7N67dhM-unsplash.jpg" class="popup-image">
-                                    <img src="{{asset('assets/pitochu.jpg')}}" class="projects-image img-fluid" alt="">
-                                </a>
                             </div>
                         </div>
 
@@ -303,10 +294,6 @@
 
                                     <p href="https://github.com/josevqzmdz/TCP_MOCK_SERVER">Link a github</p>
                                 </div>
-
-                                <a href="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" class="popup-image">
-                                    <img src="{{asset('assets/pitochu.jpg')}}" class="projects-image img-fluid" alt="">
-                                </a>
                             </div>
                         </div>
 
@@ -317,10 +304,6 @@
 
                                     <p href="https://github.com/josevqzmdz/botnet_zavocado/tree/master">Link a github</p>
                                 </div>
-
-                                <a href="images/projects/true-agency-9Bjog5FZ-oc-unsplash.jpg" class="popup-image">
-                                    <img src="{{asset('assets/pitochu.jpg')}}" class="projects-image img-fluid" alt="">
-                                </a>
                             </div>
                         </div>
 
@@ -328,6 +311,7 @@
                 </div>
             </section>
 
+        
         <footer class="site-footer">
             <div class="container">
                 <div class="row">
@@ -335,9 +319,9 @@
                     <div class="col-lg-12 col-12">
                         <div class="copyright-text-wrap">
                             <p class="mb-0">
-                                <span class="copyright-text">  <a href="#">>2011</a> >mfw</span>
-                                REEEEE 
-                                <a rel="sponsored" href="#" target="_blank">AHHHH</a>
+                                <span class="copyright-text">  <a href="mailto:jose.vqz.mdz@gmail.com">Contacto: </a> Email: jose.vqz.mdz@gmail.com </span>
+                                Telefono: 
+                                <a rel="sponsored" href="#" target="_blank">(+52) 3541090470</a>
                             </p>
                         </div>
                     </div>
