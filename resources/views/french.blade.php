@@ -41,24 +41,24 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
 
-                <a href="{{ route('routeEnglish')}}" class="navbar-brand mx-auto mx-lg-0">Portafolio web de Jose Miguel</a>
+                <a href="{{ route('routeEnglish')}}" class="navbar-brand mx-auto mx-lg-0">Jose Miguel's portfolio site web</a>
 
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-lg-5">
                         <li class="nav-item">
-                            <a  href="{{  route('Spanish') }}">Español</a>
+                            <a  href="{{  route('Spanish') }}">Espagnol</a>
                         </li>
 
                         <li class="nav-item">
-                            <a href=" {{ route('English') }}">Ingles</a>
+                            <a href=" {{ route('English') }}">Anglais</a>
                         </li>
 
                         <li class="nav-item">
-                            <a  href="{{ route('French') }}">Francés</a>
+                            <a  href="{{ route('French') }}">Francais</a>
                         </li>
 
                         <li class="nav-item">
-                            <a  href="{{ route('Portuguese') }}">Portugues</a>
+                            <a  href="{{ route('Portuguese') }}">Portugais</a>
                         </li>
 
                     </ul>
@@ -79,11 +79,11 @@
                                 <div class="hero-title-wrap d-flex align-items-center mb-4">
                                     <img src="{{asset('assets/images/me_irl3.png')}}" class="avatar-image avatar-image-large img-fluid" alt="">
 
-                                    <h1 class="hero-title ms-3 mb-0">Mi nombre es José Miguel,</h1>
+                                    <h1 class="hero-title ms-3 mb-0">Je m'appelle José Miguel,</h1>
                                 </div>
 
-                                <h2 class="mb-4">y soy un ingeniero en sistemas.</h2>
-                                <p class="mb-4"><a class="custom-btn btn custom-link" href="#section_2">¡Gracias por visitar mi pagina web!</a></p>
+                                <h2 class="mb-4">et je sis un ingénieur en informatique.</h2>
+                                <p class="mb-4"><a class="custom-btn btn custom-link" href="#section_2">¡Merci de visiter mon website!</a></p>
                             </div>
                         </div>
 
@@ -111,16 +111,16 @@
                             <div class="about-thumb">
 
                                 <div class="section-title-wrap d-flex justify-content-end align-items-center mb-4">
-                                    <h2 class="text-white me-4 mb-0">Mi experiencia laboral</h2>
+                                    <h2 class="text-white me-4 mb-0">Mon expérience professionelle:</h2>
 
                                     <img src="{{asset('assets/svgs/worker.svg')}}" class="avatar-image img-fluid" alt="">
                                 </div>
 
-                                <p class="pt-2 mb-3">Actualmente estoy trabajando como Auxiliar tecnico de IT en el empaque de aguacates "Zavocado Frutas Finas S.A. De C.V. en Periban de Ramos, Michoacan, Mexico.</p>
+                                <p class="pt-2 mb-3">Actuallement, je travaille comme assistant technique en informatique dans une entreprise d'avocats appelée "Zavocado Frutas Finas S.A. de C.V." á Periban de Ramos, Michoacán, Mexique.</p>
 
-                                <p> Me dedico a resolver problemas tecnicos tanto a nivel hardware (limpiar impresoras, computadores o incluso servidores) como logicos, tanto para problemas de envio de correo electronico, como reiniciar aplicaciones, e includo en el backend de los servicios utilizados, como compaqi o software privado para etiquetación de productos, etc. </p>
+                                <p> Mon travail consiste à réspidre des problémes techniques, à la fois au niveau matériel (nettoyer des imprimates, des ordinateurs, et même des serveurs) at au niveau logiciel - allant de problèmes de messagerie électronique ete de redémarrage d'a´lications, jusqu'au support backend des services utilisés, comme Compaqi ou des logiciels privés pour l'étiquetage de produits, etc. </p>
                                 
-                                <p> desde Febrero 2025 hasta la fecha </p>
+                                <p> Depuis février 2025 jusq'à aujourd'hui.</p>
 
                                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3759.754498196526!2d-102.4574277!3d19.5521508!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842e41d2a54f131b%3A0x1caae3d6990f66a6!2sZavocado%20Frutas%20Finas%20S.A%20DE%20C.V.!5e0!3m2!1sen!2smx!4v1744950891772!5m2!1sen!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
@@ -142,63 +142,66 @@
 
                                 <div class="profile-body">
                                     <p>
-                                        <span class="profile-small-title">Estudios</span> 
-                                        <span>Graduado del Instituto Tecnologico Superior de Los Reyes (Los reyes, Michoacan, Mexico)</span>
+                                        <span class="profile-small-title">Informations générales et contact:</span> 
+                                        <span>Diplôme de le "Instituto Tecnologico Superior de los Reyes (Los Reyes, Michoacan, Mexique).</span>
                                     </p>
 
                                     <p>
-                                        <span class="profile-small-title">Experiencia general en IT</span> 
-                                        <span>mas de 3 años trabajando tanto en sitio como remoto</span>
+                                        <span class="profile-small-title">Expérience générale en informatique:</span> 
+                                        <span>Plus de 3 ans d'expérience, à la fois sur site et en télétravail (work from home).</span>
                                     </p>
 
                                     <p>
-                                        <span class="profile-small-title">Idiomas</span> 
-                                         <span><a href="tel: 305-240-9671">Español e Ingles nativos. Frances conversacional.</a></span>
+                                        <span class="profile-small-title">Langues</span> 
+                                         <span><a href="tel: 305-240-9671">Espagnol et anglais à niveau natif. Francais conversationell.</a></span>
                                     </p>
 
                                     <p>
-                                        <span class="profile-small-title">Contacto</span> 
-                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Correo: jose.vqz.mdz@gmail.com</a>, Telefono: (52+) 3541090470</span>
+                                        <span class="profile-small-title">Le contact</span> 
+                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Email: jose.vqz.mdz@gmail.com</a>, Phone: (52+) 3541090470</span>
                                     </p>
                                     <p>
-                                        <span class="profile-small-title">Notas</span> 
-                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Si le interesa, favor de comunicarse conmigo despues de las 5pm hora guadalajara (GMT-6). Tengo pasaporte vigente pero, si llegara a obtener trabajo fuera de Mexico, requiero visa de trabajo.</span>
+                                        <span class="profile-small-title">Remarques</span> 
+                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Si vous êtes intéressé, merci de me contacter apres 17h, heure de Guadalajara (heure centrale, GMT-6). J'ai un passport valide, mais si je devais obtenir un emploi en dehours du Mexique, il me faudrait un visa de travail.</span>
                                     </p>
                                 </div>
                             </div>
                         </div>
-
+<!-- ------------------------------------------- WORK EXP -->
                         <div class="col-lg-6 col-12 mt-5 mt-lg-0">
                             <div class="about-thumb">
+                                <div class="profile-title">
+                                    <h4 class="mb-0">L'experience professionelle:</h4>
+                                </div>
                                 <div class="row">
                                     <div class="col-lg-6 col-6 featured-border-bottom py-2">
-                                        <h5> Casi 1 año de Experiencia de Soporte TI tier L1 bilingüe para Infogen Labs Inc</h5>
+                                        <h5> Près d'un an d'expérience en support IT de niveau L1, en tant qu'agent bilingue pour Infogen Labs Inc.</h5>
 
-                                        <p class="featured-text">Desde Abril 2024 hasta febrero 2025, modalidad remoto (work from home).</p>
+                                        <p class="featured-text">Depuis avril 2024 jusq'a fevrier 2025, comme le modalite "work from home".</p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 featured-border-start featured-border-bottom ps-5 py-2">
-                                        <h5>1 año de experiencia trabajando como interprete bilingüe nivel L4, ingles español, para el call center "LanguageLine Solutions".</h5>
+                                        <h5>1 an d'expérience en travail d'un interpreter niveau 4 (L4) pour le call center "LanguageLine Solutions".</h5>
 
-                                        <p class="featured-text">Desde abril 2023 hasta abril 2024</p>
+                                        <p class="featured-text">De avril 2023 jusq'a avril 2024</p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 pt-4">
-                                        <h5>Casi 1 año de experiencia como desarollador web backend para la startup mexicana "agtools"</h5>
+                                        <h5>Pŕes d'un an d'expérience en developpement web "backend" pour le startup de Mexique "agtools".</h5>
 
-                                        <p class="featured-text">Desde marzo 2022 hasta febrero 2023</p>
+                                        <p class="featured-text">De mars 2022 jusq'a fevrier 2023</p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 featured-border-start ps-5 pt-4">
-                                        <h5>1 año de experiencia trabajando como soporte TI para el empaque "giddings" en Los Reyes, Michoacan. </h5>
+                                        <h5>1 an d'expérience en support IT pour l'entrepise de conditionnement "Giddings" à "los Reyes, Michoacán, Mexique".  </h5>
 
-                                        <p class="featured-text">Desde febrero 2021 hasta marzo 2022</p>
+                                        <p class="featured-text">De fevrier 2021 à mars 2022</p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 featured-border-start ps-5 pt-4">
-                                        <h5>1 año de experiencia trabajando como soporte TI L1 para "anyness", empresa de soluciones web en Zapopan, Jalisco.</h5>
+                                        <h5>1 an d'expérience en support informatique de niveau L1 pour l'entreprise "Anyness", une societé de solutions web située à Zapopan, Jalisco, Mexique.</h5>
 
-                                        <p class="featured-text">Desde enero 2020 hasta febrero 2021</p>
+                                        <p class="featured-text">De janvier 2020 à fevrier 2021</p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 featured-border-start ps-5 pt-4">
