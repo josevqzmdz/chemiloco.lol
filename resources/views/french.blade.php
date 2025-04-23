@@ -137,7 +137,7 @@
                         <div class="col-lg-6 col-12">
                             <div class="profile-thumb">
                                 <div class="profile-title">
-                                    <h4 class="mb-0">Información</h4>
+                                    <h4 class="mb-0">Information</h4>
                                 </div>
 
                                 <div class="profile-body">
@@ -183,31 +183,31 @@
                                     <div class="col-lg-6 col-6 featured-border-start featured-border-bottom ps-5 py-2">
                                         <h5>1 an d'expérience en travail d'un interpreter niveau 4 (L4) pour le call center "LanguageLine Solutions".</h5>
 
-                                        <p class="featured-text">De avril 2023 jusq'a avril 2024</p>
+                                        <p class="featured-text">De avril 2023 jusq'a avril 2024.</p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 pt-4">
                                         <h5>Pŕes d'un an d'expérience en developpement web "backend" pour le startup de Mexique "agtools".</h5>
 
-                                        <p class="featured-text">De mars 2022 jusq'a fevrier 2023</p>
+                                        <p class="featured-text">De mars 2022 jusq'a fevrier 2023.</p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 featured-border-start ps-5 pt-4">
                                         <h5>1 an d'expérience en support IT pour l'entrepise de conditionnement "Giddings" à "los Reyes, Michoacán, Mexique".  </h5>
 
-                                        <p class="featured-text">De fevrier 2021 à mars 2022</p>
+                                        <p class="featured-text">De fevrier 2021 à mars 2022.</p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 featured-border-start ps-5 pt-4">
                                         <h5>1 an d'expérience en support informatique de niveau L1 pour l'entreprise "Anyness", une societé de solutions web située à Zapopan, Jalisco, Mexique.</h5>
 
-                                        <p class="featured-text">De janvier 2020 à fevrier 2021</p>
+                                        <p class="featured-text">De janvier 2020 à fevrier 2021.</p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 featured-border-start ps-5 pt-4">
-                                        <h5> casi 1 año trabajando como asistente de tecnologias en la escuela primaria / secundaria "Aprender para la vida" en Periban, Michoacan. </h5>
+                                        <h5> Près d'un an de travail comme auxilier de IT pour le ecolée "Aprender para la vida" dans Periban de Ramos, Michoacán, Mexique. </h5>
 
-                                        <p class="featured-text">Desde Enero 2019 hasta Diciembre 2019</p>
+                                        <p class="featured-text">De janvier 2019 à decembre 2019.</p>
                                     </div>
                                 </div>
                             </div>
