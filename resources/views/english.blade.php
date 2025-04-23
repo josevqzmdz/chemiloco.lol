@@ -79,11 +79,11 @@
                                 <div class="hero-title-wrap d-flex align-items-center mb-4">
                                     <img src="{{asset('assets/images/me_irl3.png')}}" class="avatar-image avatar-image-large img-fluid" alt="">
 
-                                    <h1 class="hero-title ms-3 mb-0">Mi nombre es José Miguel,</h1>
+                                    <h1 class="hero-title ms-3 mb-0">My name is José Miguel,</h1>
                                 </div>
 
-                                <h2 class="mb-4">y soy un ingeniero en sistemas.</h2>
-                                <p class="mb-4"><a class="custom-btn btn custom-link" href="#section_2">¡Gracias por visitar mi pagina web!</a></p>
+                                <h2 class="mb-4">and I am a software engineer.  </h2>
+                                <p class="mb-4"><a class="custom-btn btn custom-link" href="#section_2">Thank you for visiting my website!</a></p>
                             </div>
                         </div>
 
@@ -111,16 +111,16 @@
                             <div class="about-thumb">
 
                                 <div class="section-title-wrap d-flex justify-content-end align-items-center mb-4">
-                                    <h2 class="text-white me-4 mb-0">Mi experiencia laboral</h2>
+                                    <h2 class="text-white me-4 mb-0">My Work Experience:</h2>
 
                                     <img src="{{asset('assets/svgs/worker.svg')}}" class="avatar-image img-fluid" alt="">
                                 </div>
 
-                                <p class="pt-2 mb-3">Actualmente estoy trabajando como Auxiliar tecnico de IT en el empaque de aguacates "Zavocado Frutas Finas S.A. De C.V. en Periban de Ramos, Michoacan, Mexico.</p>
+                                <p class="pt-2 mb-3">I am currently working as an IT Technical Assistant at the avocado packing company "Zavocado Frutas Finas S.A. De C.V." in Periban de Ramos, Michoacán, Mexico.</p>
 
-                                <p> Me dedico a resolver problemas tecnicos tanto a nivel hardware (limpiar impresoras, computadores o incluso servidores) como logicos, tanto para problemas de envio de correo electronico, como reiniciar aplicaciones, e includo en el backend de los servicios utilizados, como compaqi o software privado para etiquetación de productos, etc. </p>
+                                <p> My job involves solving technical issues at both the hardware level (cleaning printers, computers, and even servers) and software level—ranging from email issues and restarting applications to backend support for services used, such as Compaqi or private software for product labeling, etc. </p>
                                 
-                                <p> desde Febrero 2025 hasta la fecha </p>
+                                <p> From February 2025 till date.</p>
 
                                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3759.754498196526!2d-102.4574277!3d19.5521508!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842e41d2a54f131b%3A0x1caae3d6990f66a6!2sZavocado%20Frutas%20Finas%20S.A%20DE%20C.V.!5e0!3m2!1sen!2smx!4v1744950891772!5m2!1sen!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
@@ -137,32 +137,32 @@
                         <div class="col-lg-6 col-12">
                             <div class="profile-thumb">
                                 <div class="profile-title">
-                                    <h4 class="mb-0">Información</h4>
+                                    <h4 class="mb-0">General Information and Contact:</h4>
                                 </div>
 
                                 <div class="profile-body">
                                     <p>
-                                        <span class="profile-small-title">Estudios</span> 
-                                        <span>Graduado del Instituto Tecnologico Superior de Los Reyes (Los reyes, Michoacan, Mexico)</span>
+                                        <span class="profile-small-title">A) Education:</span> 
+                                        <span>Graduate of the Instituto Tecnológico Superior de Los Reyes (Los Reyes, Michoacán, Mexico).</span>
                                     </p>
 
                                     <p>
-                                        <span class="profile-small-title">Experiencia general en IT</span> 
-                                        <span>mas de 3 años trabajando tanto en sitio como remoto</span>
+                                        <span class="profile-small-title">B) General IT Experience:</span> 
+                                        <span>Over 3 years working both onsite and remotely (work from home).</span>
                                     </p>
 
                                     <p>
-                                        <span class="profile-small-title">Idiomas</span> 
-                                         <span><a href="tel: 305-240-9671">Español e Ingles nativos. Frances conversacional.</a></span>
+                                        <span class="profile-small-title">C) Languages: </span> 
+                                         <span><a href="tel: 305-240-9671">Native Spanish and English. Conversational French.</a></span>
                                     </p>
 
                                     <p>
-                                        <span class="profile-small-title">Contacto</span> 
-                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Correo: jose.vqz.mdz@gmail.com</a>, Telefono: (52+) 3541090470</span>
+                                        <span class="profile-small-title">D) Contact:  </span> 
+                                        <span><a href="mailto:jose.vqz.mdz@gmail.com"><p>Email: jose.vqz.mdz@gmail.com</a></p>, <p>Phone: (52+) 3541090470</p></span>
                                     </p>
                                     <p>
-                                        <span class="profile-small-title">Notas</span> 
-                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Si le interesa, favor de comunicarse conmigo despues de las 5pm hora guadalajara (GMT-6). Tengo pasaporte vigente pero, si llegara a obtener trabajo fuera de Mexico, requiero visa de trabajo.</span>
+                                        <span class="profile-small-title">Notes</span> 
+                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">If interested, please contact me after 5 PM Guadalajara time (GMT-6). I have a valid passport, but if I were to obtain work outside of Mexico, I would require a work visa.</span>
                                     </p>
                                 </div>
                             </div>
@@ -170,41 +170,44 @@
 
                         <div class="col-lg-6 col-12 mt-5 mt-lg-0">
                             <div class="about-thumb">
+                                <div class="profile-title">
+                                    <h4 class="mb-0">Previous Work Experience:  </h4>
+                                </div>
                                 <div class="row">
                                     <div class="col-lg-6 col-6 featured-border-bottom py-2">
-                                        <h5> Casi 1 año de Experiencia de Soporte TI tier L1 bilingüe para Infogen Labs Inc</h5>
+                                        <h5> Nearly 1 year of Tier 1 Bilingual IT Support experience for Infogen Labs Inc.</h5>
 
-                                        <p class="featured-text">Desde Abril 2024 hasta febrero 2025, modalidad remoto (work from home).</p>
+                                        <p class="featured-text">From April 2024 to February 2025, remote (work from home).</p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 featured-border-start featured-border-bottom ps-5 py-2">
-                                        <h5>1 año de experiencia trabajando como interprete bilingüe nivel L4, ingles español, para el call center "LanguageLine Solutions".</h5>
+                                        <h5>1 year of experience working as a Level 4 bilingual interpreter (English-Spanish) for the call center "LanguageLine Solutions."</h5>
 
-                                        <p class="featured-text">Desde abril 2023 hasta abril 2024</p>
+                                        <p class="featured-text">From April 2023 to April 2024. </p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 pt-4">
-                                        <h5>Casi 1 año de experiencia como desarollador web backend para la startup mexicana "agtools"</h5>
+                                        <h5>Almost 1 year of experience as a backend web developer for the Mexican startup "agtools."</h5>
 
-                                        <p class="featured-text">Desde marzo 2022 hasta febrero 2023</p>
+                                        <p class="featured-text">From March 2022 to February 2023. </p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 featured-border-start ps-5 pt-4">
-                                        <h5>1 año de experiencia trabajando como soporte TI para el empaque "giddings" en Los Reyes, Michoacan. </h5>
+                                        <h5>1 year of experience working in IT support for the packing company "Giddings" in Los Reyes, Michoacán.</h5>
 
-                                        <p class="featured-text">Desde febrero 2021 hasta marzo 2022</p>
+                                        <p class="featured-text">DFrom February 2021 to March 2022.</p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 featured-border-start ps-5 pt-4">
-                                        <h5>1 año de experiencia trabajando como soporte TI L1 para "anyness", empresa de soluciones web en Zapopan, Jalisco.</h5>
+                                        <h5>1 year of experience working as Tier 1 IT support for "Anyness," a web solutions company in Zapopan, Jalisco.</h5>
 
-                                        <p class="featured-text">Desde enero 2020 hasta febrero 2021</p>
+                                        <p class="featured-text">From January 2020 to February 2021.</p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 featured-border-start ps-5 pt-4">
-                                        <h5> casi 1 año trabajando como asistente de tecnologias en la escuela primaria / secundaria "Aprender para la vida" en Periban, Michoacan. </h5>
+                                        <h5> Almost 1 year working as a technology assistant at the primary/secondary school "Aprender para la vida" in Periban, Michoacán.</h5>
 
-                                        <p class="featured-text">Desde Enero 2019 hasta Diciembre 2019</p>
+                                        <p class="featured-text">From January 2019 to December 2019.</p>
                                     </div>
                                 </div>
                             </div>
@@ -223,7 +226,7 @@
                             <div class="section-title-wrap d-flex justify-content-center align-items-center mb-4">
                                 <img src="{{asset('assets/svgs/idea.svg')}}" class="avatar-image img-fluid" alt="">
 
-                                <h2 class="text-white ms-4 mb-0">Mis fortalezas como ingeniero en sistemas son:</h2>
+                                <h2 class="text-white ms-4 mb-0">My Strengths as a Software Engineer are:</h2>
                             </div>
                         </div>
 
@@ -232,9 +235,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5>Desarollo Backend</h5>
+                                    <h5>Backend Development: </h5>
 
-                                    <p >Desde frameworks en javascript (svelte, Angular, node js), python (Django) y PHP (laravel), hasta pentesting (mockito, junit 5, selenium) </p>
+                                    <p >Experience with JavaScript frameworks (Svelte, Angular, Node.js), Python (Django), and PHP (Laravel), as well as pentesting tools (Mockito, JUnit 5, Selenium, PHPUnit).</p>
                                 </div>
 
                             </div>
@@ -243,9 +246,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5>Redes informaticas</h5>
+                                    <h5>Computer Networking:</h5>
 
-                                    <p >Creación, administracion y mantenimiento de redes nivel empresarial, tanto cableado de ethernet como administración logica de servidores, hosts, access points y usuarios finales en una red, para tanto Cisco como Fortinet </p>
+                                    <p >Creation, administration, and maintenance of enterprise-level networks—both Ethernet cabling and logical server, host, access point, and end-user management, for both Cisco and Fortinet environments.</p>
                                 </div>
 
                             </div>
@@ -254,9 +257,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >Soporte IT </h5>
+                                    <h5 >IT Support: </h5>
 
-                                    <p >Experiencia en el mundo real lidiando con sistemas windows y linux, tanto para problemas de oficina (impresoras malfuncionando, aplicaciones de correo sin funcionar, etc) como problemas mas a fondo como probar APIs o reparar equipos dañados. </p>
+                                    <p >Hands-on experience with both Windows and Linux systems, solving office issues (malfunctioning printers, email applications not working, etc.) as well as deeper problems like API testing or repairing damaged equipment. </p>
                                 </div>
                             </div>
                         </div>
@@ -264,9 +267,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >ingles nativo y profesional, frances conversacional</h5>
+                                    <h5 >Native and Professional English, Conversational French:</h5>
 
-                                    <p >Gracias a mi previa experiencia como interprete, y hablar ingles durante toda mi vida, puedo explicar y mantener conversaciones a fondo con tecnicismos de informatica sin problemas. Tambien puedo mantener conversaciones en frances.</p>
+                                    <p >Thanks to my previous experience as an interpreter and having spoken English all my life, I can explain and maintain in-depth technical conversations with ease, and also interpret in real time between languages. I can also hold conversations in French.</p>
                                 </div>
                             </div>
                         </div>
@@ -274,9 +277,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >Analisis de red / pentesting</h5>
+                                    <h5 >Network Analysis / Pentesting: </h5>
 
-                                    <p > Conocimientos a profundidad en analisis de paquetes TCP y otros protocolos de red, utilizando herramientas como wireshark y GHIDRA para ingenieria reversa, para detecar potencial malware y demas ataques en una red empresarial. </p>
+                                    <p > Deep knowledge of TCP packet analysis and other network protocols using tools like Wireshark and GHIDRA for reverse engineering—detecting potential malware and other attacks on corporate networks, as well as testing software using frameworks like PHPUnit or Selenium. </p>
                                 </div>
                             </div>
                         </div>
@@ -284,9 +287,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >Uso de APIs</h5>
+                                    <h5 >API Usage Experience:</h5>
 
-                                    <p > Tengo experiencia utilizando diferentes APIs como shopify plus y otro software privado de las varias empresas donde he trabajado, utilizando RESTful u otras interfaces como graphql. </p>
+                                    <p > I have experience using various APIs such as Shopify Plus and other private software at different companies I’ve worked with, using RESTful and GraphQL schemas. </p>
                                 </div>
                             </div>
                         </div>
@@ -294,9 +297,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >Conocimientos en sistemas de administración de usuarios, como Azure Active Directory y OKTA / workday.</h5>
+                                    <h5 >Knowledge in User Management Systems like Azure Active Directory, OAuth, and OKTA / Workday:</h5>
 
-                                    <p > He utilizado por mas de 2 años los sistemas de administración de usuarios, tanto a nivel GUI como por consola y scripts, de OKTA y Active Directory. Desde sencilla restauración de credenciales personales, hasta crear nuevos grupos administrativos para nuevas secciones en las empresas. </p>
+                                    <p > Over 2 years of experience managing user administration systems both via GUI and through console/scripts, including tasks like restoring personal credentials and creating new admin groups. </p>
                                 </div>
                             </div>
                         </div>
@@ -304,9 +307,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >Experiencia con sistemas de tickets y documentación como Service Now y Zendesk.</h5>
+                                    <h5 >Experience with Ticketing and Documentation Systems like ServiceNow and Zendesk:</h5>
 
-                                    <p > He utilizado por mas de 2 años estas herramientas de documentación y resolución de problemas, haciendo un buen habito de documentar lo mas claro posible los problemas y como se solucionaron. </p>
+                                    <p > Over 2 years of experience using these tools for documentation and issue resolution, with a strong habit of clearly documenting problems and their solutions.</p>
                                 </div>
                             </div>
                         </div>
@@ -314,9 +317,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 > Experiencia y manejo de software para acceso remoto tipo TeamViewer y Anydesk</h5>
+                                    <h5 > Experience with Remote Access Software like TeamViewer and AnyDesk:</h5>
 
-                                    <p > He utilizado estas herramientas, asi como acceso remoto nativo de windows e inicio de sesion por SSH a servidores, a lo largo de mi carrera y estoy adaptado a las configuraciones y entorno de trabajo que estas herramientas otorgan. </p>
+                                    <p > I’ve used these tools—as well as native Windows remote access and SSH logins to servers—throughout my career and am familiar with their configuration and workflows.</p>
                                 </div>
                             </div>
                         </div>
@@ -324,9 +327,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >Lenguajes y esquemas de programación</h5>
+                                    <h5 >Programming Languages and Paradigms: </h5>
 
-                                    <p > Si bien tengo conocimientos de python, C/C++, Java y ruby on rails, mis lenguajes de programación donde tengo mayor solvencia mental y experiencia son: Javascript/Typescript, PHP, HTML 5, SQL, NoSQL y GraphQL. </p>
+                                    <p > While I have knowledge of Python, C/C++, Java, and Ruby on Rails, my strongest languages in terms of fluency and experience are: JavaScript/TypeScript, PHP, HTML5, SQL, NoSQL, and GraphQL. </p>
                                 </div>
                             </div>
                         </div>
@@ -344,7 +347,7 @@
                             <div class="section-title-wrap d-flex justify-content-center align-items-center mb-4">
                                 <img src="{{asset('assets/svgs/idea.svg')}}" class="avatar-image img-fluid" alt="">
 
-                                <h2 class="text-white ms-4 mb-0">Proyectos</h2>
+                                <h2 class="text-white ms-4 mb-0">Personal Projects: </h2>
                             </div>
                         </div>
 
@@ -353,9 +356,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5>Esta pagina web.</h5>
+                                    <h5>This website!:</h5>
 
-                                    <p href="https://github.com/josevqzmdz/chemiloco.lol/tree/master">Mi propia pagina web en laravel esta disponible en github! Link a github.</p>
+                                    <p href="https://github.com/josevqzmdz/chemiloco.lol/tree/master">My own Laravel-based website is available on GitHub! [Link to GitHub]</p>
                                 </div>
 
                             </div>
@@ -364,9 +367,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5>Modelo de IA para predecir el valor de bitcoin</h5>
+                                    <h5>Deep Learning Model to Predict Bitcoin Value:</h5>
 
-                                    <p href="https://github.com/josevqzmdz/proyecto_final_10/tree/main/BTC_Prices">Cree un modelo de deep learning para predecir el valor de bitcoin, en python. link a github.</p>
+                                    <p href="https://github.com/josevqzmdz/proyecto_final_10/tree/main/BTC_Prices">I coded a deep-learning model to predict Bitcoin future values using python-esque AI frameworks. Link to Github:</p>
                                 </div>
 
                             </div>
@@ -375,9 +378,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >Servidor TCP construido desde 0 utilizando C/C++</h5>
+                                    <h5 >TCP Server Built from Scratch Using C/C++:</h5>
 
-                                    <p href="https://github.com/josevqzmdz/TCP_MOCK_SERVER">Link a github</p>
+                                    <p href="https://github.com/josevqzmdz/TCP_MOCK_SERVER">A TCP packet server simulating WireMock to understand the OSI model in real-world usage. [Link to GitHub]</p>
                                 </div>
                             </div>
                         </div>
@@ -385,9 +388,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >Servidor TCP construido con mockito y JUnit 5</h5>
+                                    <h5 >TCP Packet Server built upon Mockito, wiremock and JUni 5 for Deep API Testing:</h5>
 
-                                    <p href="https://github.com/josevqzmdz/botnet_zavocado/tree/master">Link a github</p>
+                                    <p href="https://github.com/josevqzmdz/botnet_zavocado/tree/master">Used for in-depth testing and analysis of a virus found at my workplace in Zavocado. [Link to GitHub]</p>
                                 </div>
                             </div>
                         </div>
@@ -395,9 +398,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >Scripts de web scrapping / pen testing en selenium</h5>
+                                    <h5 >Web Scraping / Pen Testing Scripts in Selenium:     </h5>
 
-                                    <p href="https://github.com/josevqzmdz/selenium_testing"> scripts en python para hacer pruebas en la herramienta privada de agtools. Link a github.</p>
+                                    <p href="https://github.com/josevqzmdz/selenium_testing"> Python scripts for testing Agtools' private tool. [Link to GitHub]</p>
                                 </div>
                             </div>
                         </div>
@@ -405,9 +408,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >Proyecto personal de shopify en ruby on rails</h5>
+                                    <h5 >Shopify Project in Ruby on Rails:</h5>
 
-                                    <p href="https://github.com/josevqzmdz/selenium_testing"> Pequeño proyecto de shopify para probar y experimentar con la API, construido en ruby on rails.</p>
+                                    <p href="https://github.com/josevqzmdz/selenium_testing"> A small Shopify project to test and experiment with the API, built in Ruby on Rails. [Link to GitHub]</p>
                                 </div>
                             </div>
                         </div>
