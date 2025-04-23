@@ -82,7 +82,7 @@
                                     <h1 class="hero-title ms-3 mb-0">Je m'appelle José Miguel,</h1>
                                 </div>
 
-                                <h2 class="mb-4">et je sis un ingénieur en informatique.</h2>
+                                <h2 class="mb-4">et je suis un ingénieur en informatique.</h2>
                                 <p class="mb-4"><a class="custom-btn btn custom-link" href="#section_2">¡Merci de visiter mon website!</a></p>
                             </div>
                         </div>
@@ -226,7 +226,7 @@
                             <div class="section-title-wrap d-flex justify-content-center align-items-center mb-4">
                                 <img src="{{asset('assets/svgs/idea.svg')}}" class="avatar-image img-fluid" alt="">
 
-                                <h2 class="text-white ms-4 mb-0">Mis fortalezas como ingeniero en sistemas son:</h2>
+                                <h2 class="text-white ms-4 mb-0">Mes points forts en tant qu'ingénieur en informatique sont:</h2>
                             </div>
                         </div>
 
@@ -235,9 +235,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5>Desarollo Backend</h5>
+                                    <h5>Developpement de backend</h5>
 
-                                    <p >Desde frameworks en javascript (svelte, Angular, node js), python (Django) y PHP (laravel), hasta pentesting (mockito, junit 5, selenium) </p>
+                                    <p >Utilisation de frameworks en javascript (svelte, angular, node js), python (Django) et PHP (Laravel), jusqu'au pentesting avec des outils comme Mockito, JUnit 5, PHPUnit et Selenium.</p>
                                 </div>
 
                             </div>
@@ -246,9 +246,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5>Redes informaticas</h5>
+                                    <h5>Réseaux informatiques:</h5>
 
-                                    <p >Creación, administracion y mantenimiento de redes nivel empresarial, tanto cableado de ethernet como administración logica de servidores, hosts, access points y usuarios finales en una red, para tanto Cisco como Fortinet </p>
+                                    <p > Création, administration et maintenance de réseaux à l'échelle  d'une entreprise, aussi bien au niveau du câblage Ethernet que de la gestion logicielle des serveurs, hôtes, points d'accés et utilisateurs finaux, pour des environnements Cisco et Fortinet.</p>
                                 </div>
 
                             </div>
@@ -257,9 +257,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >Soporte IT </h5>
+                                    <h5 >Support IT:</h5>
 
-                                    <p >Experiencia en el mundo real lidiando con sistemas windows y linux, tanto para problemas de oficina (impresoras malfuncionando, aplicaciones de correo sin funcionar, etc) como problemas mas a fondo como probar APIs o reparar equipos dañados. </p>
+                                    <p > Experience pratique avec les systèmes Windows et Linux, résolution de problèmes bureaitoqies (imprimantes en panne, applications de messagerie ne fonctionant pas, etc), ainsi que de problèmes plus complexes, comme le test d'API ou la réparation de matériel endommagé.</p>
                                 </div>
                             </div>
                         </div>
@@ -267,9 +267,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >ingles nativo y profesional, frances conversacional</h5>
+                                    <h5 >Anglais native et professionel, francais conversationel:</h5>
 
-                                    <p >Gracias a mi previa experiencia como interprete, y hablar ingles durante toda mi vida, puedo explicar y mantener conversaciones a fondo con tecnicismos de informatica sin problemas. Tambien puedo mantener conversaciones en frances.</p>
+                                    <p > Grâce à mon expérience en tant qu'interprète et au fait que j'ai parlé anglais toute ma vie, je suis capable d'expliquer et de tenir des conversations approfondies sur des sujets techniques en informatique, sans difficulté. Je peux également faire de l'interprétation entre les langues. Je suis aussi capable de tenir une conversation en français. </p>
                                 </div>
                             </div>
                         </div>
@@ -277,7 +277,7 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >Analisis de red / pentesting</h5>
+                                    <h5 >l'analyse réseau / pentesting</h5>
 
                                     <p > Conocimientos a profundidad en analisis de paquetes TCP y otros protocolos de red, utilizando herramientas como wireshark y GHIDRA para ingenieria reversa, para detecar potencial malware y demas ataques en una red empresarial. </p>
                                 </div>
