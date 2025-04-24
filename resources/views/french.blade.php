@@ -277,9 +277,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >l'analyse réseau / pentesting</h5>
+                                    <h5 >l'analyse de réseau / pentesting</h5>
 
-                                    <p > Conocimientos a profundidad en analisis de paquetes TCP y otros protocolos de red, utilizando herramientas como wireshark y GHIDRA para ingenieria reversa, para detecar potencial malware y demas ataques en una red empresarial. </p>
+                                    <p > J'ai connaissance approfondie d'analuse de packets TCP et autre protocols de reseaux, en utilisant de utils comme wireshark et GHIDRA pour reverse-engineriee - en detecte de plusieurs "malware" et autre attaque dans reseaux de societes, a software tester en utilisant de frameworks avec PHPUnit ou selenium. </p>
                                 </div>
                             </div>
                         </div>
@@ -287,9 +287,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >Uso de APIs</h5>
+                                    <h5 >Utilisation d'API:</h5>
 
-                                    <p > Tengo experiencia utilizando diferentes APIs como shopify plus y otro software privado de las varias empresas donde he trabajado, utilizando RESTful u otras interfaces como graphql. </p>
+                                    <p > J'ai de l'expérience dans l'utilisation de différentes API, comme shopify plus et d'autres logiciels privés dans plusieurs entreprises où j'ai travaillé, en utilisant des API RESTful ou d'autres interfaces comme GraphQL. </p>
                                 </div>
                             </div>
                         </div>
@@ -297,9 +297,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >Conocimientos en sistemas de administración de usuarios, como Azure Active Directory y OKTA / workday.</h5>
+                                    <h5 > Connaissances des systèmes d'administration des utilisateurs; </h5>
 
-                                    <p > He utilizado por mas de 2 años los sistemas de administración de usuarios, tanto a nivel GUI como por consola y scripts, de OKTA y Active Directory. Desde sencilla restauración de credenciales personales, hasta crear nuevos grupos administrativos para nuevas secciones en las empresas. </p>
+                                    <p > comme Azure Active Directory, OKTA et workday. J'ai utilisé ces systèmes pendant plus de deux ans, aussi bien via l'interface graphique (GUI) que par console et scripts. Cela va de la simple restauration de mots de passe à la création de nouveaux groupes administratifs our différentes sections au sein des entreprises. </p>
                                 </div>
                             </div>
                         </div>
@@ -307,9 +307,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >Experiencia con sistemas de tickets y documentación como Service Now y Zendesk.</h5>
+                                    <h5 >Expérience avec des systèmes de gestion de tickets et de documentation, comme servicenow et zendesk:</h5>
 
-                                    <p > He utilizado por mas de 2 años estas herramientas de documentación y resolución de problemas, haciendo un buen habito de documentar lo mas claro posible los problemas y como se solucionaron. </p>
+                                    <p > J'ai utilisé outils pendant plus de deux ans, en prenant l'habitude de documenter les problèmes et leur solution les plus clairement possible.</p>
                                 </div>
                             </div>
                         </div>
