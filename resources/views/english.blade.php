@@ -46,19 +46,19 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-lg-5">
                         <li class="nav-item">
-                            <a href="{{  route('Spanish') }}">Español</a>
+                            <p><a  href="{{  route('Spanish') }}">Español</a></p>
                         </li>
 
                         <li class="nav-item">
-                            <a href=" {{ route('English') }}">Ingles</a>
+                            <p><a href=" {{ route('English') }}">English</a></p>
                         </li>
 
                         <li class="nav-item">
-                            <a  href="{{ route('French') }}">Francés</a>
+                            <p><a  href="{{ route('French') }}">Français</a></p>
                         </li>
 
                         <li class="nav-item">
-                            <a  href="{{ route('Portuguese') }}">Portugues</a>
+                            <p><a  href="{{ route('Portuguese') }}">Portugues</a></p>
                         </li>
 
                     </ul>
@@ -103,13 +103,7 @@
                 <div class="container">
                     <div class="row">
 
-                        <div class="col-lg-6 col-12">
-                            <img src="{{asset('assets/svgs/my_story.svg')}}" class="about-image img-fluid" alt="">
-                        </div>
-
-                        <div class="col-lg-6 col-12 mt-5 mt-lg-0">
-                            <div class="about-thumb">
-
+                    
                                 <div class="section-title-wrap d-flex justify-content-end align-items-center mb-4">
                                     <h2 class="text-white me-4 mb-0">My Work Experience:</h2>
 
@@ -124,7 +118,7 @@
 
                                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3759.754498196526!2d-102.4574277!3d19.5521508!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x842e41d2a54f131b%3A0x1caae3d6990f66a6!2sZavocado%20Frutas%20Finas%20S.A%20DE%20C.V.!5e0!3m2!1sen!2smx!4v1744950891772!5m2!1sen!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                             </div>
-                        </div>
+                        
 
                     </div>
                 </div>
@@ -134,7 +128,6 @@
                 <div class="container">
                     <div class="row">
 
-                        <div class="col-lg-6 col-12">
                             <div class="profile-thumb">
                                 <div class="profile-title">
                                     <h4 class="mb-0">General Information and Contact:</h4>
@@ -166,9 +159,7 @@
                                     </p>
                                 </div>
                             </div>
-                        </div>
 
-                        <div class="col-lg-6 col-12 mt-5 mt-lg-0">
                             <div class="about-thumb">
                                 <div class="profile-title">
                                     <h4 class="mb-0">Previous Work Experience:  </h4>
@@ -211,7 +202,7 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        
 
                     </div>
                 </div>
@@ -222,13 +213,11 @@
                 <div class="container">
                     <div class="row">
 
-                        <div class="col-lg-8 col-md-8 col-12 ms-auto">
-                            <div class="section-title-wrap d-flex justify-content-center align-items-center mb-4">
+                            <div class="section-title-wrap d-flex justify-content-end align-items-center mb-4">
                                 <img src="{{asset('assets/svgs/idea.svg')}}" class="avatar-image img-fluid" alt="">
 
                                 <h2 class="text-white ms-4 mb-0">My Strengths as a Software Engineer are:</h2>
                             </div>
-                        </div>
 
                         <div class="clearfix"></div>
 
@@ -343,13 +332,11 @@
                 <div class="container">
                     <div class="row">
 
-                        <div class="col-lg-8 col-md-8 col-12 ms-auto">
                             <div class="section-title-wrap d-flex justify-content-center align-items-center mb-4">
                                 <img src="{{asset('assets/svgs/idea.svg')}}" class="avatar-image img-fluid" alt="">
 
                                 <h2 class="text-white ms-4 mb-0">Personal Projects: </h2>
                             </div>
-                        </div>
 
                         <div class="clearfix"></div>
 
@@ -428,7 +415,7 @@
                         <div class="copyright-text-wrap">
                             <p class="mb-0">
                                 <span class="copyright-text">  <a href="mailto:jose.vqz.mdz@gmail.com">Contacto: </a> Email: jose.vqz.mdz@gmail.com </span>
-                                Telefono: 
+                                Phone: 
                                 <a rel="sponsored" href="#" target="_blank">(+52) 3541090470</a>
                             </p>
                         </div>

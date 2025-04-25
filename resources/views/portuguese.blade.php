@@ -50,11 +50,11 @@
                         </li>
 
                         <li class="nav-item">
-                            <a href=" {{ route('English') }}">Ingles</a>
+                            <a href=" {{ route('English') }}">English</a>
                         </li>
 
                         <li class="nav-item">
-                            <a  href="{{ route('French') }}">Francés</a>
+                            <a  href="{{ route('French') }}">Français</a>
                         </li>
 
                         <li class="nav-item">
@@ -102,10 +102,6 @@
             <section class="about section-padding" id="section_2">
                 <div class="container">
                     <div class="row">
-
-                        <div class="col-lg-6 col-12">
-                            <img src="{{asset('assets/svgs/my_story.svg')}}" class="about-image img-fluid" alt="">
-                        </div>
 
                         <div class="col-lg-6 col-12 mt-5 mt-lg-0">
                             <div class="about-thumb">

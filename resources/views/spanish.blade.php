@@ -46,19 +46,19 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-lg-5">
                         <li class="nav-item">
-                            <a href="{{  route('Spanish') }}">Español</a>
+                            <p><a  href="{{  route('Spanish') }}">Español</a></p>
                         </li>
 
                         <li class="nav-item">
-                            <a href=" {{ route('English') }}">Ingles</a>
+                            <p><a href=" {{ route('English') }}">English</a></p>
                         </li>
 
                         <li class="nav-item">
-                            <a  href="{{ route('French') }}">Francés</a>
+                            <p><a  href="{{ route('French') }}">Français</a></p>
                         </li>
 
                         <li class="nav-item">
-                            <a  href="{{ route('Portuguese') }}">Portugues</a>
+                            <p><a  href="{{ route('Portuguese') }}">Portugues</a></p>
                         </li>
 
                     </ul>
@@ -102,10 +102,6 @@
             <section class="about section-padding" id="section_2">
                 <div class="container">
                     <div class="row">
-
-                        <div class="col-lg-6 col-12">
-                            <img src="{{asset('assets/svgs/my_story.svg')}}" class="about-image img-fluid" alt="">
-                        </div>
 
                         <div class="col-lg-6 col-12 mt-5 mt-lg-0">
                             <div class="about-thumb">
