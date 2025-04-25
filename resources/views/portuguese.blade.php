@@ -429,7 +429,7 @@
                         <div class="copyright-text-wrap">
                             <p class="mb-0">
                                 <span class="copyright-text">  <a href="mailto:jose.vqz.mdz@gmail.com">Contacto: </a> Email: jose.vqz.mdz@gmail.com </span>
-                                Telefono: 
+                                Telefone: 
                                 <a rel="sponsored" href="#" target="_blank">(+52) 3541090470</a>
                             </p>
                         </div>
