@@ -162,7 +162,7 @@
                                     </p>
                                     <p>
                                         <span class="profile-small-title">Remarques</span> 
-                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Si vous êtes intéressé, merci de me contacter apres 17h, heure de Guadalajara (heure centrale, GMT-6). J'ai un passport valide, mais si je devais obtenir un emploi en dehours du Mexique, il me faudrait un visa de travail.</span>
+                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">J'ai un passport valide, mais si je devais obtenir un emploi en dehours du Mexique, il me faudrait un visa de travail.</span>
                                     </p>
                                 </div>
                             </div>

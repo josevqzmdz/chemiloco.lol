@@ -162,7 +162,7 @@
                                     </p>
                                     <p>
                                         <span class="profile-small-title">Notes</span> 
-                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">If interested, please contact me after 5 PM Guadalajara time (GMT-6). I have a valid passport, but if I were to obtain work outside of Mexico, I would require a work visa.</span>
+                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">I have a valid passport, but if I were to obtain work outside of Mexico, I would require a work visa.</span>
                                     </p>
                                 </div>
                             </div>

@@ -162,7 +162,7 @@
                                     </p>
                                     <p>
                                         <span class="profile-small-title">E) Notas</span> 
-                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Si le interesa, favor de comunicarse conmigo despues de las 5pm hora guadalajara (GMT-6). Tengo pasaporte vigente pero, si llegara a obtener trabajo fuera de Mexico, requiero visa de trabajo.</span>
+                                        <span><a href="mailto:jose.vqz.mdz@gmail.com"> Zona horaria GMT-6, hora guadalajara. Tengo pasaporte vigente pero, si llegara a obtener trabajo fuera de Mexico, requiero visa de trabajo.</span>
                                     </p>
                                 </div>
                             </div>
