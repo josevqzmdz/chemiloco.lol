@@ -103,7 +103,6 @@
                 <div class="container">
                     <div class="row">
 
-                        <div class="col-lg-6 col-12 mt-5 mt-lg-0">
                             <div class="about-thumb">
 
                                 <div class="section-title-wrap d-flex justify-content-end align-items-center mb-4">
@@ -123,14 +122,12 @@
                         </div>
 
                     </div>
-                </div>
             </section>
 
             <section class="featured section-padding">
                 <div class="container">
                     <div class="row">
 
-                        <div class="col-lg-6 col-12">
                             <div class="profile-thumb">
                                 <div class="profile-title">
                                     <h4 class="mb-0">Informações Gerais e Contato:                                    </h4>
@@ -161,10 +158,8 @@
                                         <span><a href="mailto:jose.vqz.mdz@gmail.com">Tenho passaporte válido, mas, para trabalhar fora do México, necessitaria de visto de trabalho.                                        </span>
                                     </p>
                                 </div>
-                            </div>
                         </div>
 
-                        <div class="col-lg-6 col-12 mt-5 mt-lg-0">
                             <div class="about-thumb">
                                 <div class="profile-title">
                                     <h4 class="mb-0">Experiencia laboral:</h4>
@@ -206,7 +201,6 @@
                                         <p class="featured-text">De janeiro de 2019 a dezembro de 2019.                                        </p>
                                     </div>
                                 </div>
-                            </div>
                         </div>
 
                     </div>
@@ -218,7 +212,6 @@
                 <div class="container">
                     <div class="row">
 
-                        <div class="col-lg-8 col-md-8 col-12 ms-auto">
                             <div class="section-title-wrap d-flex justify-content-center align-items-center mb-4">
                                 <img src="{{asset('assets/svgs/idea.svg')}}" class="avatar-image img-fluid" alt="">
 
@@ -331,7 +324,6 @@
                             </div>
                         </div>
 
-                    </div>
                 </div>
             </section>                   
 
@@ -340,7 +332,6 @@
                 <div class="container">
                     <div class="row">
 
-                        <div class="col-lg-8 col-md-8 col-12 ms-auto">
                             <div class="section-title-wrap d-flex justify-content-center align-items-center mb-4">
                                 <img src="{{asset('assets/svgs/idea.svg')}}" class="avatar-image img-fluid" alt="">
 
@@ -412,7 +403,6 @@
                             </div>
                         </div>
 
-                    </div>
                 </div>
             </section>
 
