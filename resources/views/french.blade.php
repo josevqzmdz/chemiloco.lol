@@ -317,9 +317,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 > Experiencia y manejo de software para acceso remoto tipo TeamViewer y Anydesk</h5>
+                                    <h5 > EExpérience dans la gestion de logiciels d'accès à distance, tels que teamviewer et anydesk:</h5>
 
-                                    <p > He utilizado estas herramientas, asi como acceso remoto nativo de windows e inicio de sesion por SSH a servidores, a lo largo de mi carrera y estoy adaptado a las configuraciones y entorno de trabajo que estas herramientas otorgan. </p>
+                                    <p > J'ai utilisé ces outils, ainsi que l'accés à distance natif de windows et la connexion SSH aux serveurs, tout a long de ma carrière. Je suis bien habitué aux configurations et à l'environnement de travail que ces outils offrent.</p>
                                 </div>
                             </div>
                         </div>
@@ -327,9 +327,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >Lenguajes y esquemas de programación</h5>
+                                    <h5 >Langages et schemas /paradigmes de programmation: </h5>
 
-                                    <p > Si bien tengo conocimientos de python, C/C++, Java y ruby on rails, mis lenguajes de programación donde tengo mayor solvencia mental y experiencia son: Javascript/Typescript, PHP, HTML 5, SQL, NoSQL y GraphQL. </p>
+                                    <p > Bien que j'aie des connaissances en python, C/C++, Java et Ruby on Rails, les langages de programmation dans lesquels j'ai le plus de maîtrise intellectuelle et d'expérience sont: Javascript/Typescript, PHP, HTML 5, SQL, NoSQL et GraphQL. </p>
                                 </div>
                             </div>
                         </div>
@@ -347,7 +347,7 @@
                             <div class="section-title-wrap d-flex justify-content-center align-items-center mb-4">
                                 <img src="{{asset('assets/svgs/idea.svg')}}" class="avatar-image img-fluid" alt="">
 
-                                <h2 class="text-white ms-4 mb-0">Proyectos</h2>
+                                <h2 class="text-white ms-4 mb-0">Mon projets personnels:</h2>
                             </div>
                         </div>
 
@@ -356,9 +356,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5>Esta pagina web.</h5>
+                                    <h5>Ce website: </h5>
 
-                                    <p href="https://github.com/josevqzmdz/chemiloco.lol/tree/master">Mi propia pagina web en laravel esta disponible en github! Link a github.</p>
+                                    <p href="https://github.com/josevqzmdz/chemiloco.lol/tree/master">Mon propre site web développé avec Laravel est disponible sur github! Lien vers github.</p>
                                 </div>
 
                             </div>
@@ -367,9 +367,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5>Modelo de IA para predecir el valor de bitcoin</h5>
+                                    <h5>Projet d'IA pour le Bitcoin:</h5>
 
-                                    <p href="https://github.com/josevqzmdz/proyecto_final_10/tree/main/BTC_Prices">Cree un modelo de deep learning para predecir el valor de bitcoin, en python. link a github.</p>
+                                    <p href="https://github.com/josevqzmdz/proyecto_final_10/tree/main/BTC_Prices"> J'ai créé un modèle de deep learning pour prédire la valeur future du Bitcoin, en Python. Lien vers Github! </p>
                                 </div>
 
                             </div>
@@ -378,9 +378,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >Servidor TCP construido desde 0 utilizando C/C++</h5>
+                                    <h5 >Un serveur TCP construit, a partit de rien, en C/C++:</h5>
 
-                                    <p href="https://github.com/josevqzmdz/TCP_MOCK_SERVER">Link a github</p>
+                                    <p href="https://github.com/josevqzmdz/TCP_MOCK_SERVER">Un serveur de paqueets TCP simulant de wiremock pour étudier le modèle OSI dans un usage réel. Lien vers Github.</p>
                                 </div>
                             </div>
                         </div>
@@ -388,9 +388,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >Servidor TCP construido con mockito y JUnit 5</h5>
+                                    <h5 >Serveur TCP en utilisant de mockito, wiremock et JUnit5: </h5>
 
-                                    <p href="https://github.com/josevqzmdz/botnet_zavocado/tree/master">Link a github</p>
+                                    <p href="https://github.com/josevqzmdz/botnet_zavocado/tree/master"> Utilisé pour des tests approfondis et l'analyse d'un virus informatique découvert sur mon lieu de travail chez moi travail. Lien vers github</p>
                                 </div>
                             </div>
                         </div>
@@ -398,9 +398,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >Scripts de web scrapping / pen testing en selenium</h5>
+                                    <h5 >Scripts de  scrapping / pen testing en utilisant de selenium: </h5>
 
-                                    <p href="https://github.com/josevqzmdz/selenium_testing"> scripts en python para hacer pruebas en la herramienta privada de agtools. Link a github.</p>
+                                    <p href="https://github.com/josevqzmdz/selenium_testing"> scripts typier en python pour des tests dans le priviée outil de la societe de mexique, agtools. Lien vers github.</p>
                                 </div>
                             </div>
                         </div>
@@ -408,9 +408,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >Proyecto personal de shopify en ruby on rails</h5>
+                                    <h5 >Projet shopify personnel en ruby on rails:</h5>
 
-                                    <p href="https://github.com/josevqzmdz/selenium_testing"> Pequeño proyecto de shopify para probar y experimentar con la API, construido en ruby on rails.</p>
+                                    <p href="https://github.com/josevqzmdz/selenium_testing"> Un petit projet shopify pour tester et expérimenter avec l'API, développé em Ruby on Rails. Lien vers github.</p>
                                 </div>
                             </div>
                         </div>
@@ -428,7 +428,7 @@
                         <div class="copyright-text-wrap">
                             <p class="mb-0">
                                 <span class="copyright-text">  <a href="mailto:jose.vqz.mdz@gmail.com">Contacto: </a> Email: jose.vqz.mdz@gmail.com </span>
-                                Telefono: 
+                                Phone: 
                                 <a rel="sponsored" href="#" target="_blank">(+52) 3541090470</a>
                             </p>
                         </div>
