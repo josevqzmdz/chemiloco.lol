@@ -151,11 +151,11 @@
 
                                     <p>
                                         <span class="profile-small-title">D) Contact:  </span> 
-                                        <span><a href="mailto:jose.vqz.mdz@gmail.com"><p>Email: jose.vqz.mdz@gmail.com</a></p>, <p>Phone: (52+) 3541090470</p></span>
+                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Email: jose.vqz.mdz@gmail.com</a> Phone: (52+) 3541090470</span>
                                     </p>
                                     <p>
                                         <span class="profile-small-title">Notes</span> 
-                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">I have a valid passport, but if I were to obtain work outside of Mexico, I would require a work visa.</span>
+                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">GMT-6 Timezone. I have a valid passport, but if I were to obtain work outside of Mexico, I would require a work visa.</span>
                                     </p>
                                 </div>
                             </div>

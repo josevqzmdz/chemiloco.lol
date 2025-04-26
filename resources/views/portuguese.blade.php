@@ -155,7 +155,7 @@
                                     </p>
                                     <p>
                                         <span class="profile-small-title">E) Observações:</span> 
-                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Tenho passaporte válido, mas, para trabalhar fora do México, necessitaria de visto de trabalho.                                        </span>
+                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Fuso horário GMT-6. Tenho passaporte válido, mas, para trabalhar fora do México, necessitaria de visto de trabalho.                                        </span>
                                     </p>
                                 </div>
                         </div>

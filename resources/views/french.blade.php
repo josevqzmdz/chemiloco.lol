@@ -155,7 +155,7 @@
                                     </p>
                                     <p>
                                         <span class="profile-small-title">Remarques</span> 
-                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">J'ai un passport valide, mais si je devais obtenir un emploi en dehours du Mexique, il me faudrait un visa de travail.</span>
+                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Fuseau horaire GMT-6, heure Guadalajara. J'ai un passport valide, mais si je devais obtenir un emploi en dehours du Mexique, il me faudrait un visa de travail.</span>
                                     </p>
                                 </div>
                             </div>
