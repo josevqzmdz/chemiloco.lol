@@ -79,10 +79,10 @@
                                 <div class="hero-title-wrap d-flex align-items-center mb-4">
                                     <img src="{{asset('assets/images/me_irl3.png')}}" class="avatar-image avatar-image-large img-fluid" alt="">
 
-                                    <h1 class="hero-title ms-3 mb-0">Je m'appelle José Miguel,</h1>
+                                    <h1 class="hero-title ms-3 mb-0">¡Bonjour! Je m'appelle José Miguel,</h1>
                                 </div>
 
-                                <h2 class="mb-4">et je suis un ingénieur en informatique.</h2>
+                                <h2 class="mb-4">et je suis un Génie logiciel.</h2>
                                 <p class="mb-4"><a class="custom-btn btn custom-link" href="#section_2">¡Merci de visiter mon website!</a></p>
                             </div>
                         </div>
@@ -215,7 +215,7 @@
                             <div class="section-title-wrap d-flex justify-content-center align-items-center mb-4">
                                 <img src="{{asset('assets/svgs/idea.svg')}}" class="avatar-image img-fluid" alt="">
 
-                                <h2 class="text-white ms-4 mb-0">Mes points forts en tant qu'ingénieur en informatique sont:</h2>
+                                <h2 class="text-white ms-4 mb-0">Mes points forts en tant que un génie logiciel sont:</h2>
                             </div>
 
                         <div class="clearfix"></div>

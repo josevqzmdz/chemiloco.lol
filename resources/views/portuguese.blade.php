@@ -79,7 +79,7 @@
                                 <div class="hero-title-wrap d-flex align-items-center mb-4">
                                     <img src="{{asset('assets/images/me_irl3.png')}}" class="avatar-image avatar-image-large img-fluid" alt="">
 
-                                    <h1 class="hero-title ms-3 mb-0">Meu nome é José Miguel,</h1>
+                                    <h1 class="hero-title ms-3 mb-0">¡Bem venido! Meu nome é José Miguel,</h1>
                                 </div>
 
                                 <h2 class="mb-4">e sou engenheiro de sistemas.</h2>

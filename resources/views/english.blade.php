@@ -79,7 +79,7 @@
                                 <div class="hero-title-wrap d-flex align-items-center mb-4">
                                     <img src="{{asset('assets/images/me_irl3.png')}}" class="avatar-image avatar-image-large img-fluid" alt="">
 
-                                    <h1 class="hero-title ms-3 mb-0">My name is José Miguel,</h1>
+                                    <h1 class="hero-title ms-3 mb-0">Hi! My name is José Miguel,</h1>
                                 </div>
 
                                 <h2 class="mb-4">and I am a software engineer.  </h2>
@@ -186,7 +186,7 @@
                                     <div class="col-lg-6 col-6 featured-border-start ps-5 pt-4">
                                         <h5>1 year of experience working in IT support for the packing company "Giddings" in Los Reyes, Michoacán.</h5>
 
-                                        <p class="featured-text">DFrom February 2021 to March 2022.</p>
+                                        <p class="featured-text">From February 2021 to March 2022.</p>
                                     </div>
 
                                     <div class="col-lg-6 col-6 featured-border-start ps-5 pt-4">
@@ -345,7 +345,7 @@
                                 <div class="projects-info">
                                     <h5>This website!:</h5>
 
-                                    <p href="https://github.com/josevqzmdz/chemiloco.lol/tree/master">My own Laravel-based website is available on GitHub! [Link to GitHub]</p>
+                                    <p>My own Laravel-based website is available on GitHub! <a href="https://github.com/josevqzmdz/chemiloco.lol/tree/master">[Link to GitHub].</a></p>
                                 </div>
 
                             </div>
@@ -356,7 +356,7 @@
                                 <div class="projects-info">
                                     <h5>Deep Learning Model to Predict Bitcoin Value:</h5>
 
-                                    <p href="https://github.com/josevqzmdz/proyecto_final_10/tree/main/BTC_Prices">I coded a deep-learning model to predict Bitcoin future values using python-esque AI frameworks. Link to Github:</p>
+                                    <p >I coded a deep-learning model to predict Bitcoin future values using python-esque AI frameworks. <a href="https://github.com/josevqzmdz/proyecto_final_10/tree/main/BTC_Prices">[Link to Github].</a></p>
                                 </div>
 
                             </div>
@@ -367,7 +367,7 @@
                                 <div class="projects-info">
                                     <h5 >TCP Server Built from Scratch Using C/C++:</h5>
 
-                                    <p href="https://github.com/josevqzmdz/TCP_MOCK_SERVER">A TCP packet server simulating WireMock to understand the OSI model in real-world usage. [Link to GitHub]</p>
+                                    <p >A TCP packet server simulating WireMock to understand the OSI model in real-world usage. <a href="https://github.com/josevqzmdz/TCP_MOCK_SERVER" >[Link to GitHub].</a></p>
                                 </div>
                             </div>
                         </div>
@@ -377,7 +377,7 @@
                                 <div class="projects-info">
                                     <h5 >TCP Packet Server built upon Mockito, wiremock and JUni 5 for Deep API Testing:</h5>
 
-                                    <p href="https://github.com/josevqzmdz/botnet_zavocado/tree/master">Used for in-depth testing and analysis of a virus found at my workplace in Zavocado. [Link to GitHub]</p>
+                                    <p >Used for in-depth testing and analysis of a virus found at my workplace in Zavocado. <a href="https://github.com/josevqzmdz/botnet_zavocado/tree/master">[Link to GitHub].</a></p>
                                 </div>
                             </div>
                         </div>
@@ -387,7 +387,7 @@
                                 <div class="projects-info">
                                     <h5 >Web Scraping / Pen Testing Scripts in Selenium:     </h5>
 
-                                    <p href="https://github.com/josevqzmdz/selenium_testing"> Python scripts for testing Agtools' private tool. [Link to GitHub]</p>
+                                    <p > Python scripts for testing Agtools' private tool. <a href="https://github.com/josevqzmdz/selenium_testing">[Link to GitHub].</a></p>
                                 </div>
                             </div>
                         </div>
@@ -397,7 +397,17 @@
                                 <div class="projects-info">
                                     <h5 >Shopify Project in Ruby on Rails:</h5>
 
-                                    <p href="https://github.com/josevqzmdz/selenium_testing"> A small Shopify project to test and experiment with the API, built in Ruby on Rails. [Link to GitHub]</p>
+                                    <p> A small Shopify project to test and experiment with the API, built in Ruby on Rails. <a href="https://github.com/josevqzmdz/shopify_tests">[Link to GitHub]</p></a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <h5 >ricksbk.online:</h5>
+
+                                    <p> A portfolio website I'm currently developing aside a work peer. <a href="https://github.com/josevqzmdz/ricksbk.online">[Link to Github].</a></p>
                                 </div>
                             </div>
                         </div>
