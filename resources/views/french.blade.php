@@ -387,7 +387,7 @@
                                 <div class="projects-info">
                                     <h5 >Scripts de  scrapping / pen testing en utilisant de selenium: </h5>
 
-                                    <p > scripts typier en python pour des tests dans le priviée outil de la societe de mexique, agtools. Lien vers github.</p>
+                                    <p > scripts typier en python pour des tests dans le priviée outil de la societe de mexique, agtools. <a href="https://github.com/josevqzmdz/selenium_testing">[Lien vers GitHub]. </a></p>
                                 </div>
                             </div>
                         </div>
