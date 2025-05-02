@@ -46,20 +46,21 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-lg-5">
                         <li class="nav-item">
-                            <p><a  href="{{  route('Spanish') }}">Español</a></p>
+                            <a  href="{{  route('Spanish') }}" class="nav-link" >Español</a>
                         </li>
 
                         <li class="nav-item">
-                            <p><a href=" {{ route('English') }}">English</a></p>
+                            <p><a href=" {{ route('English') }}" class="nav-link" >English</a></p>
                         </li>
 
                         <li class="nav-item">
-                            <p><a  href="{{ route('French') }}">Français</a></p>
+                            <p><a  href="{{ route('French') }}" class="nav-link" >Français</a></p>
                         </li>
 
                         <li class="nav-item">
-                            <p><a  href="{{ route('Portuguese') }}">Portugues</a></p>
+                            <p><a  href="{{ route('Portuguese') }}" class="nav-link" >Portugues</a></p>
                         </li>
+
 
                     </ul>
 
@@ -344,7 +345,7 @@
                                 <div class="projects-info">
                                     <h5>Ce website: </h5>
 
-                                    <p href="https://github.com/josevqzmdz/chemiloco.lol/tree/master">Mon propre site web développé avec Laravel est disponible sur github! Lien vers github.</p>
+                                    <p >Mon propre site web développé avec Laravel est disponible sur github! <a href="https://github.com/josevqzmdz/chemiloco.lol/tree/master">[Lien vers GitHub].</a></p>
                                 </div>
 
                             </div>
@@ -355,7 +356,7 @@
                                 <div class="projects-info">
                                     <h5>Projet d'IA pour le Bitcoin:</h5>
 
-                                    <p href="https://github.com/josevqzmdz/proyecto_final_10/tree/main/BTC_Prices"> J'ai créé un modèle de deep learning pour prédire la valeur future du Bitcoin, en Python. Lien vers Github! </p>
+                                    <p > J'ai créé un modèle de deep learning pour prédire la valeur future du Bitcoin, en Python. <a href="https://github.com/josevqzmdz/proyecto_final_10/tree/main/BTC_Prices">[Lien vers Github].</a> </p>
                                 </div>
 
                             </div>
@@ -366,7 +367,7 @@
                                 <div class="projects-info">
                                     <h5 >Un serveur TCP construit, a partit de rien, en C/C++:</h5>
 
-                                    <p href="https://github.com/josevqzmdz/TCP_MOCK_SERVER">Un serveur de paqueets TCP simulant de wiremock pour étudier le modèle OSI dans un usage réel. Lien vers Github.</p>
+                                    <p >Un serveur de paqueets TCP simulant de wiremock pour étudier le modèle OSI dans un usage réel. <a href="https://github.com/josevqzmdz/TCP_MOCK_SERVER" >[Lien vers Github].</a></p>
                                 </div>
                             </div>
                         </div>
@@ -376,7 +377,7 @@
                                 <div class="projects-info">
                                     <h5 >Serveur TCP en utilisant de mockito, wiremock et JUnit5: </h5>
 
-                                    <p href="https://github.com/josevqzmdz/botnet_zavocado/tree/master"> Utilisé pour des tests approfondis et l'analyse d'un virus informatique découvert sur mon lieu de travail chez moi travail. Lien vers github</p>
+                                    <p > Utilisé pour des tests approfondis et l'analyse d'un virus informatique découvert sur mon lieu de travail chez moi travail. <a href="https://github.com/josevqzmdz/botnet_zavocado/tree/master">[Lien vers GitHub].</a></p>
                                 </div>
                             </div>
                         </div>
@@ -386,7 +387,7 @@
                                 <div class="projects-info">
                                     <h5 >Scripts de  scrapping / pen testing en utilisant de selenium: </h5>
 
-                                    <p href="https://github.com/josevqzmdz/selenium_testing"> scripts typier en python pour des tests dans le priviée outil de la societe de mexique, agtools. Lien vers github.</p>
+                                    <p > scripts typier en python pour des tests dans le priviée outil de la societe de mexique, agtools. Lien vers github.</p>
                                 </div>
                             </div>
                         </div>
@@ -396,7 +397,17 @@
                                 <div class="projects-info">
                                     <h5 >Projet shopify personnel en ruby on rails:</h5>
 
-                                    <p href="https://github.com/josevqzmdz/selenium_testing"> Un petit projet shopify pour tester et expérimenter avec l'API, développé em Ruby on Rails. Lien vers github.</p>
+                                    <p > Un petit projet shopify pour tester et expérimenter avec l'API, développé em Ruby on Rails. <a href="https://github.com/josevqzmdz/shopify_tests">[Lien vers GitHub].</a></p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <h5 >ricksbk.online:</h5>
+
+                                    <p> Un site web portfolio que je developé actuallement avec un collègue de travail. <a href="https://github.com/josevqzmdz/ricksbk.online">[Lien vers Github].</a></p>
                                 </div>
                             </div>
                         </div>

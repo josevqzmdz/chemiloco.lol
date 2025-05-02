@@ -46,20 +46,21 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-lg-5">
                         <li class="nav-item">
-                            <a  href="{{  route('Spanish') }}">Español</a>
+                            <a  href="{{  route('Spanish') }}" class="nav-link" >Español</a>
                         </li>
 
                         <li class="nav-item">
-                            <a href=" {{ route('English') }}">English</a>
+                            <p><a href=" {{ route('English') }}" class="nav-link" >English</a></p>
                         </li>
 
                         <li class="nav-item">
-                            <a  href="{{ route('French') }}">Français</a>
+                            <p><a  href="{{ route('French') }}" class="nav-link" >Français</a></p>
                         </li>
 
                         <li class="nav-item">
-                            <a  href="{{ route('Portuguese') }}">Portugues</a>
+                            <p><a  href="{{ route('Portuguese') }}" class="nav-link" >Portugues</a></p>
                         </li>
+
 
                     </ul>
 
@@ -344,9 +345,9 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5>MMeu site pessoal:</h5>
+                                    <h5>Meu site pessoal!:</h5>
 
-                                    <p href="https://github.com/josevqzmdz/chemiloco.lol/tree/master">Meu site pessoal baseado em Laravel está disponível no GitHub! [Link para o GitHub].</p>
+                                    <p >Meu site pessoal baseado em Laravel está disponível no GitHub! <a href="https://github.com/josevqzmdz/chemiloco.lol/tree/master">[Link para o GitHub].</a></p>
                                 </div>
 
                             </div>
@@ -357,7 +358,7 @@
                                 <div class="projects-info">
                                     <h5>Modelo de Deep Learning para Previsão de Valor do Bitcoin:                                    </h5>
 
-                                    <p href="https://github.com/josevqzmdz/proyecto_final_10/tree/main/BTC_Prices">Construído com Python. [Link para o GitHub]</p>
+                                    <p >Construído com Python. [Link para o GitHub]</p>
                                 </div>
 
                             </div>
@@ -368,7 +369,7 @@
                                 <div class="projects-info">
                                     <h5 > Servidor TCP Construído do Zero com C/C++:                                    </h5>
 
-                                    <p href="https://github.com/josevqzmdz/TCP_MOCK_SERVER">Um servidor de pacotes TCP simulando o WireMock para entender o modelo OSI na prática. [Link para o GitHub</p>
+                                    <p href="https://github.com/josevqzmdz/TCP_MOCK_SERVER">Um servidor de pacotes TCP simulando o WireMock para entender o modelo OSI na prática. <a href="https://github.com/josevqzmdz/proyecto_final_10/tree/main/BTC_Prices">[Link para o GitHub].</a></p>
                                 </div>
                             </div>
                         </div>
@@ -378,7 +379,7 @@
                                 <div class="projects-info">
                                     <h5 >Servidor de Pacotes TCP para Testes Profundos de API, construido com mockito, junit 5 e wiremock:                                    </h5>
 
-                                    <p href="https://github.com/josevqzmdz/botnet_zavocado/tree/master">Usado para testes e análises aprofundadas de um vírus encontrado no meu trabalho na Zavocado. [Link para o GitHub]                                    </p>
+                                    <p >Usado para testes e análises aprofundadas de um vírus encontrado no meu trabalho na Zavocado. <a href="https://github.com/josevqzmdz/botnet_zavocado/tree/master">[Link para o GitHub]. </a></p>
                                 </div>
                             </div>
                         </div>
@@ -388,7 +389,7 @@
                                 <div class="projects-info">
                                     <h5 >Scripts de Web Scraping / Pentesting com Selenium:                                    </h5>
 
-                                    <p href="https://github.com/josevqzmdz/selenium_testing"> Scripts em Python para testes na ferramenta privada da Agtools. [Link para o GitHub]                                    </p>
+                                    <p href="https://github.com/josevqzmdz/selenium_testing"> Scripts em Python para testes na ferramenta privada da Agtools. <a href="https://github.com/josevqzmdz/botnet_zavocado/tree/master">[Link para o GitHub]. </a></p>
                                 </div>
                             </div>
                         </div>
@@ -396,9 +397,19 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 >Projeto Shopify em Ruby on Rails:                                    </h5>
+                                    <h5 >Projeto Shopify em Ruby on Rails:   </h5>
 
-                                    <p href="https://github.com/josevqzmdz/selenium_testing"> Um pequeno projeto no Shopify para testes e experimentações com a API, desenvolvido em Ruby on Rails. [Link para o GitHub]</p>
+                                    <p href="https://github.com/josevqzmdz/selenium_testing"> Um pequeno projeto no Shopify para testes e experimentações com a API, desenvolvido em Ruby on Rails. <a href="https://github.com/josevqzmdz/shopify_tests"[Link para o GitHub]</a></p>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-lg-4 col-md-6 col-12">
+                            <div class="projects-thumb">
+                                <div class="projects-info">
+                                    <h5 >ricksbk.online:</h5>
+
+                                    <p> Um site de portfólio que estou desenvolvendo atualmente junto com um colega de trabalho.  <a href="https://github.com/josevqzmdz/ricksbk.online">[Link para o Github].</a></p>
                                 </div>
                             </div>
                         </div>

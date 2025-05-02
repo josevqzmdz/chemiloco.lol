@@ -46,19 +46,19 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-lg-5">
                         <li class="nav-item">
-                            <p><a  href="{{  route('Spanish') }}">Español</a></p>
+                            <a  href="{{  route('Spanish') }}" class="nav-link" >Español</a>
                         </li>
 
                         <li class="nav-item">
-                            <p><a href=" {{ route('English') }}">English</a></p>
+                            <p><a href=" {{ route('English') }}" class="nav-link" >English</a></p>
                         </li>
 
                         <li class="nav-item">
-                            <p><a  href="{{ route('French') }}">Français</a></p>
+                            <p><a  href="{{ route('French') }}" class="nav-link" >Français</a></p>
                         </li>
 
                         <li class="nav-item">
-                            <p><a  href="{{ route('Portuguese') }}">Portugues</a></p>
+                            <p><a  href="{{ route('Portuguese') }}" class="nav-link" >Portugues</a></p>
                         </li>
 
                     </ul>
