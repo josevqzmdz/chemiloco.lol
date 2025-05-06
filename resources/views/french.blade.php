@@ -142,21 +142,21 @@
 
                                     <p>
                                         <span class="profile-small-title">Expérience générale en informatique:</span> 
-                                        <span>Plus de 3 ans d'expérience, à la fois sur site et en télétravail (work from home).</span>
+                                        <span>Plus de 5 ans d'expérience, à la fois sur site et en télétravail (work from home), en travail de plusieurs rôles en moi livre temps comme dans un context professionelle..</span>
                                     </p>
 
                                     <p>
-                                        <span class="profile-small-title">Langues</span> 
-                                         <span><a href="tel: 305-240-9671">Espagnol et anglais à niveau natif. Francais conversationell.</a></span>
+                                        <span class="profile-small-title">Langages</span> 
+                                         <span>Espagnol et anglais à niveau natif. Francais conversationel et courrant.</span>
                                     </p>
 
                                     <p>
                                         <span class="profile-small-title">Le contact</span> 
-                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Email: jose.vqz.mdz@gmail.com</a>, Phone: (52+) 3541090470</span>
+                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Email: jose.vqz.mdz@gmail.com</a>, <a href="tel:523541090470">Phone: (52+) 354 109 0470</a></span>
                                     </p>
                                     <p>
                                         <span class="profile-small-title">Remarques</span> 
-                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Fuseau horaire GMT-6, heure Guadalajara. J'ai un passport valide, mais si je devais obtenir un emploi en dehours du Mexique, il me faudrait un visa de travail.</span>
+                                        <span>Fuseau horaire GMT-6, heure Guadalajara. J'ai un passport valide, mais si je devais obtenir un emploi en dehours du Mexique, il me faudrait un visa de travail.</span>
                                     </p>
                                 </div>
                             </div>
@@ -306,7 +306,7 @@
                         <div class="col-lg-4 col-md-6 col-12">
                             <div class="projects-thumb">
                                 <div class="projects-info">
-                                    <h5 > EExpérience dans la gestion de logiciels d'accès à distance, tels que teamviewer et anydesk:</h5>
+                                    <h5 > Expérience dans la gestion de logiciels d'accès à distance, tels que teamviewer et anydesk:</h5>
 
                                     <p > J'ai utilisé ces outils, ainsi que l'accés à distance natif de windows et la connexion SSH aux serveurs, tout a long de ma carrière. Je suis bien habitué aux configurations et à l'environnement de travail que ces outils offrent.</p>
                                 </div>
@@ -424,9 +424,9 @@
                     <div class="col-lg-12 col-12">
                         <div class="copyright-text-wrap">
                             <p class="mb-0">
-                                <span class="copyright-text">  <a href="mailto:jose.vqz.mdz@gmail.com">Contacto: </a> Email: jose.vqz.mdz@gmail.com </span>
+                                <span class="copyright-text">  <a href="mailto:jose.vqz.mdz@gmail.com">Contacto: Email: jose.vqz.mdz@gmail.com </a></span>
                                 Phone: 
-                                <a rel="sponsored" href="#" target="_blank">(+52) 3541090470</a>
+                                <a href="tel:523541090470" target="_blank">(+52) 3541090470</a>
                             </p>
                         </div>
                     </div>

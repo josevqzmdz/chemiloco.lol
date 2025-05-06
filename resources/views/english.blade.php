@@ -141,21 +141,21 @@
 
                                     <p>
                                         <span class="profile-small-title">B) General IT Experience:</span> 
-                                        <span>Over 3 years working both onsite and remotely (work from home).</span>
+                                        <span>Over 5 years working both onsite and remotely (work from home) for multiple IT support roles and even backend development, both on my own free time and professionally..</span>
                                     </p>
 
                                     <p>
                                         <span class="profile-small-title">C) Languages: </span> 
-                                         <span><a href="tel: 305-240-9671">Native Spanish and English. Conversational French.</a></span>
+                                         <span>Native Spanish and English. Conversational / Fluent French.</span>
                                     </p>
 
                                     <p>
                                         <span class="profile-small-title">D) Contact:  </span> 
-                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Email: jose.vqz.mdz@gmail.com</a> Phone: (52+) 3541090470</span>
+                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Email: jose.vqz.mdz@gmail.com</a> <a href="tel: +523541090470">Phone: (52+) 354 109 0470</a></span>
                                     </p>
                                     <p>
                                         <span class="profile-small-title">Notes</span> 
-                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">GMT-6 Timezone. I have a valid passport, but if I were to obtain work outside of Mexico, I would require a work visa.</span>
+                                        <span>GMT-6 Timezone. I have a valid passport, but if I were to obtain work outside of Mexico, I would require a work visa.</span>
                                     </p>
                                 </div>
                             </div>
@@ -424,9 +424,9 @@
                     <div class="col-lg-12 col-12">
                         <div class="copyright-text-wrap">
                             <p class="mb-0">
-                                <span class="copyright-text">  <a href="mailto:jose.vqz.mdz@gmail.com">Contact: </a> Email: jose.vqz.mdz@gmail.com </span>
+                                <span class="copyright-text">  <a href="mailto:jose.vqz.mdz@gmail.com">Contact; Email: jose.vqz.mdz@gmail.com, </a>  </span>
                                 Phone: 
-                                <a rel="sponsored" href="#" target="_blank">(+52) 3541090470</a>
+                                <a  href="tel:523541090470" target="_blank">(+52) 3541090470</a>
                             </p>
                         </div>
                     </div>

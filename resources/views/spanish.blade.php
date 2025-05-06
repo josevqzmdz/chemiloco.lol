@@ -142,21 +142,21 @@
 
                                     <p>
                                         <span class="profile-small-title">B) Experiencia general en IT:</span> 
-                                        <span>Mas de 3 años trabajando tanto en sitio como remoto (wfh).</span>
+                                        <span>Mas de 5 años trabajando tanto en sitio como remoto (wfh).</span>
                                     </p>
 
                                     <p>
                                         <span class="profile-small-title">C) Idiomas</span> 
-                                         <span><a href="tel: 305-240-9671">Español e Ingles nativos. Frances conversacional.</a></span>
+                                         <span>Español e Ingles nativos. Frances conversacional y fluido.</span>
                                     </p>
 
                                     <p>
                                         <span class="profile-small-title">D) Contacto:</span> 
-                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Correo: jose.vqz.mdz@gmail.com</a>, Telefono: (52+) 3541090470</span>
+                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Correo: jose.vqz.mdz@gmail.com</a>, <a href="tel:523541090470"> Telefono: (52+) 354 109 0470</a></span>
                                     </p>
                                     <p>
                                         <span class="profile-small-title">E) Notas</span> 
-                                        <span><a href="mailto:jose.vqz.mdz@gmail.com"> Zona horaria GMT-6, hora guadalajara. Tengo pasaporte vigente pero, si llegara a obtener trabajo fuera de Mexico, requiero visa de trabajo.</span>
+                                        <span> Zona horaria GMT-6, hora guadalajara. Tengo pasaporte vigente pero, si llegara a obtener trabajo fuera de Mexico, requiero visa de trabajo.</span>
                                     </p>
                                 </div>
                             </div>
@@ -426,9 +426,9 @@
                     <div class="col-lg-12 col-12">
                         <div class="copyright-text-wrap">
                             <p class="mb-0">
-                                <span class="copyright-text">  <a href="mailto:jose.vqz.mdz@gmail.com">Contacto: </a> Email: jose.vqz.mdz@gmail.com </span>
+                                <span class="copyright-text">  <a href="mailto:jose.vqz.mdz@gmail.com">Contacto: Email: jose.vqz.mdz@gmail.com </a> </span>
                                 Telefono: 
-                                <a rel="sponsored" href="#" target="_blank">(+52) 3541090470</a>
+                                <a href="tel:523541090470" target="_blank">(+52) 354 109 0470</a>
                             </p>
                         </div>
                     </div>

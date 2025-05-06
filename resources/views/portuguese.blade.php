@@ -41,7 +41,7 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
 
-                <a href="{{ route('routeEnglish')}}"class="navbar-brand mx-auto mx-lg-0">Portfólio web de Jose Migue</a>
+                <a href="{{ route('routeEnglish')}}"class="navbar-brand mx-auto mx-lg-0">Portfólio web de Jose Miguel</a>
 
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav ms-lg-5">
@@ -142,21 +142,21 @@
 
                                     <p>
                                         <span class="profile-small-title">B) Experiência Geral em TI:</span> 
-                                        <span>Mais de 3 anos de experiência trabalhando presencialmente e remotamente (home office).</span>
+                                        <span>Mais de 5 anos de experiência trabalhando presencialmente e remotamente (home office).</span>
                                     </p>
 
                                     <p>
                                         <span class="profile-small-title">C) Idiomas:                                        </span> 
-                                         <span><a href="tel: 305-240-9671">Espanhol e inglês nativos. Francês conversacional.</a></span>
+                                         <span>Espanhol e inglês nativos. Francês conversacional.</span>
                                     </p>
 
                                     <p>
                                         <span class="profile-small-title">D) Contato:                                        </span> 
-                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Email: jose.vqz.mdz@gmail.com</a>, Telefone: (52+) 3541090470</span>
+                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Email: jose.vqz.mdz@gmail.com</a>, <a href="523541090470">Telefone: (52+) 354 109 0470</a></span>
                                     </p>
                                     <p>
                                         <span class="profile-small-title">E) Observações:</span> 
-                                        <span><a href="mailto:jose.vqz.mdz@gmail.com">Fuso horário GMT-6. Tenho passaporte válido, mas, para trabalhar fora do México, necessitaria de visto de trabalho.                                        </span>
+                                        <span>Fuso horário GMT-6. Tenho passaporte válido, mas, para trabalhar fora do México, necessitaria de visto de trabalho.                                        </span>
                                     </p>
                                 </div>
                         </div>
@@ -425,9 +425,9 @@
                     <div class="col-lg-12 col-12">
                         <div class="copyright-text-wrap">
                             <p class="mb-0">
-                                <span class="copyright-text">  <a href="mailto:jose.vqz.mdz@gmail.com">Contacto: </a> Email: jose.vqz.mdz@gmail.com </span>
+                                <span class="copyright-text">  <a href="mailto:jose.vqz.mdz@gmail.com">Contacto: Email: jose.vqz.mdz@gmail.com </a> </span>
                                 Telefone: 
-                                <a rel="sponsored" href="#" target="_blank">(+52) 3541090470</a>
+                                <a href="tel:523541090470" target="_blank">(+52) 354 109 0470</a>
                             </p>
                         </div>
                     </div>
