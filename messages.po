@@ -1,0 +1,47 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: jose.vqz.mdz@gmail.com \n"
+"POT-Creation-Date: 2025-05-25 02:42-0700\n"
+"PO-Revision-Date: 2025 - 05 - 25 3:44am (lack of sleep)\n"
+"Last-Translator: JOSE MIGUEL VAZQUEZ MENDEZ, jose.vqz.mdz@gmail.com \n"
+
+# quirky smartass commands 
+
+"Language-Team: only me, the damned fucking chemiloco!!!!\n"
+
+#: index.php:2
+msgid "gutten morgen hijos de la verga"
+msgstr ""
+
+# 1) spanish
+
+"Language: es\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+# 2) english
+
+"Language: en\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+# 3) french
+
+"Language: fr\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+# 4) german
+
+"Language: de\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+# 5) portuguese
+
+"Language: pt\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
