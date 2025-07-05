@@ -40,7 +40,7 @@
         <header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
 
-                <h1 class="masthead-heading text-uppercase mb-0">My name is Jose Miguel, and I am a Software Engineer.</h1>
+                <h1 class="masthead-heading text-uppercase mb-0">Hi! My name is Jose Miguel, and I am a Software Engineer.</h1>
 
                 <!-- chemiloco's face :'v-->
 
