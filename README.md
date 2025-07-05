@@ -2,6 +2,8 @@ Bienvenidos a mi pagina web, chemiloco PUUUUNTOOOO lol.
 
 Es un WIP permanente puesto que no solo lo utilizo para presentarme antes los trabajos y empresas, pero tambien tengo varias ideas para subir aqui, como mis partituras en musescore (gracias a dios por el codigo abierto).
 
+0) Correr  $ composer upgrade y crear el archivo .env
+
 1) gettext y demas:
 Mi meta con este proyecto es tener, no solo un portal web para los idiotas que estan a cargo de recursos humanos, sino tambien un blog personal. Pero vamos por pasos, le hago la emocion que hablo 5 idiomas y hay que tener todo en orden. Al parecer, gettext es la mejor opcion para el estandar i18n.
 
