@@ -178,8 +178,8 @@
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
                     <!-- link to my CV in google drive, nothing fancy. -->
-                    <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/" >
-                        <i class="fas fa-download me-2" href="https://drive.google.com/file/d/1tYKTFvc7U90boZMrmf767-2uvYjGHvRH/view?usp=sharing"></i>
+                    <a class="btn btn-xl btn-outline-light" href="https://drive.google.com/file/d/1tYKTFvc7U90boZMrmf767-2uvYjGHvRH/view?usp=sharing" >
+                        <i class="fas fa-download me-2" ></i>
                         Download my CV!
                     </a>
                 </div>

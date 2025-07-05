@@ -29,7 +29,7 @@
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="{{route('Spanish')}}">Español</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="{{route('English')}}">English</a></li>
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="{{route('French')}}">Franais</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="{{route('French')}}">Français</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="{{route('Portuguese')}}">Portugues</a></li>
                     </ul>
                 </div>
@@ -177,8 +177,8 @@
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
                     <!-- link to my CV in google drive, nothing fancy. -->
-                    <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/" >
-                        <i class="fas fa-download me-2" href="https://drive.google.com/file/d/1tYKTFvc7U90boZMrmf767-2uvYjGHvRH/view?usp=sharing"></i>
+                    <a class="btn btn-xl btn-outline-light" href="https://drive.google.com/file/d/1tYKTFvc7U90boZMrmf767-2uvYjGHvRH/view?usp=sharing" >
+                        <i class="fas fa-download me-2" ></i>
                         Baixar meu CV aqui!
                     </a>
                 </div>

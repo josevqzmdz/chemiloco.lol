@@ -177,8 +177,8 @@
                 <!-- About Section Button-->
                 <div class="text-center mt-4">
                     <!-- link to my CV (french) in google drive -->
-                    <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/" >
-                        <i class="fas fa-download me-2" href="https://drive.google.com/file/d/19xpSkZMrU4bvNOFo6MCw6Q7-JRv1CB54/view?usp=sharing"></i>
+                    <a class="btn btn-xl btn-outline-light" href="https://drive.google.com/file/d/19xpSkZMrU4bvNOFo6MCw6Q7-JRv1CB54/view?usp=sharing" >
+                        <i class="fas fa-download me-2" ></i>
                         Telechargér mon CV ici!
                     </a>
                 </div>
