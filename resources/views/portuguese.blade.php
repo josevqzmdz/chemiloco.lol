@@ -7,7 +7,7 @@
         <meta name="author" content="" />
         <title>Chemiloco's web CV</title>
         <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="{{asset("assets/favicon.ico")}}" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
@@ -43,7 +43,7 @@
 
                 <!-- chemiloco's face :'v-->
 
-                <img class="masthead-avatar me_irl_pic mb-5 " src="{{asset("public/assets/images/me_irl.png")}}" alt="..." />
+                <img class="masthead-avatar me_irl_pic mb-5 " src="{{asset("assets/images/me_irl.png")}}" alt="..." />
                 <!-- Masthead Heading-->
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
@@ -106,7 +106,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="{{asset("public/assets/images/ciklum.png")}}" alt="..." />
+                            <img class="img-fluid" src="{{asset("assets/images/ciklum.png")}}" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 2  ### interpreter-->
@@ -115,7 +115,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="{{asset("public/assets/images/teleperformance.jpeg")}}" alt="..." />
+                            <img class="img-fluid" src="{{asset("assets/images/teleperformance.jpeg")}}" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 3  ### AGTOlls-->
@@ -124,7 +124,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="{{asset("public/assets/images/agtools_logo.jpeg")}}" alt="..." />
+                            <img class="img-fluid" src="{{asset("assets/images/agtools_logo.jpeg")}}" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 4 ### giddings-->
@@ -133,7 +133,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="{{asset("public/assets/images/sunbelle.jpeg")}}" alt="..." />
+                            <img class="img-fluid" src="{{asset("assets/images/sunbelle.jpeg")}}" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 5 ## anyness-->
@@ -142,7 +142,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="{{asset("public/assets/images/anyness.png")}}" alt="..." />
+                            <img class="img-fluid" src="{{asset("assets/images/anyness.png")}}" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 6  ### aprender para la vida-->
@@ -151,7 +151,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="{{asset("public/assets/images/school.png")}}" alt="..." />
+                            <img class="img-fluid" src="{{asset("assets/images/school.png")}}" alt="..." />
                         </div>
                     </div>
                 </div>
@@ -538,7 +538,7 @@
                                     </div>
                                     <p class="mb-4">- Abril 2024 a Fevereiro 2025: Quase um ano de experiência em suporte IT (Service Desk) de nível L2, como agente bilíngue para Ciklum (anteriormente conhecida como "Infogen Labs").  </p>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="{{asset("public/assets/images/ciklum.png")}}" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="{{asset("assets/images/ciklum.png")}}" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4"> Eu era responsável por fornecer suporte informático remoto a várias filiais de um dos clientes da Ciklum, Skechers, em todo o continente (América do Norte e Sul). Tratava tanto chamadas de nível 1 quanto 2, cobrindo problemas que iam desde aplicativos Windows básicos (como o outlook que não carregava a caixa de entrada ou a recuperação de arquivos faltantes) até a resolução de problemas com seu software de ponto de venda (PoS) personalizado, assim como a investigação de problemas com as APIs, seus endpoints ou webhooks. Realizava a análise de suas redes para identificar problemas frequentes como tempestades de broadcast, colisão de pacotes, DHCP, etc.   </p>
                                     <p class="mb-4">Infogen's contact: 
@@ -652,7 +652,7 @@
                                      <p class="mb-4">- Fevereiro 2021 a Março 2022: 1 ano de experiência para a empresa de embalagem de abacates chamada "SunBelle" (anteriormente conhecida como "Giddings").</p>
 
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="{{asset("public/assets/images/sunbelle.jpeg")}}" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="{{asset("assets/images/sunbelle.jpeg")}}" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Eu cuidava de resolver problemas tanto de hardware quanto software, como realizar reparos em aplicativos como google chrome, desbloquear impressoras com mau funcionamento, criar ou gerenciar credenciais de login, assim como gerenciar sua base de dados, em SQL.</p>
                                     <p class="mb-4">Sunbelle's contact: 
@@ -749,7 +749,7 @@
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
-        <script src="js/scripts.js"></script>
+        <script src="{{asset("assets/js/scripts.js")}}"></script>
         <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
         <!-- * *                               SB Forms JS                               * *-->
         <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->

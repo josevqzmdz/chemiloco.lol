@@ -7,7 +7,7 @@
         <meta name="author" content="" />
         <title>Chemiloco's web CV</title>
         <!-- Favicon-->
-        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <link rel="icon" type="image/x-icon" href="{{asset("assets/favicon.ico")}}" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v6.3.0/js/all.js" crossorigin="anonymous"></script>
         <!-- Google fonts-->
@@ -43,7 +43,7 @@
 
                 <!-- chemiloco's face :'v-->
 
-                <img class="masthead-avatar me_irl_pic mb-5 " src="{{asset("public/assets/images/me_irl.png")}}" alt="..." />
+                <img class="masthead-avatar me_irl_pic mb-5 " src="{{asset("assets/images/me_irl.png")}}" alt="..." />
                 <!-- Masthead Heading-->
                 <!-- Icon Divider-->
                 <div class="divider-custom divider-light">
@@ -106,7 +106,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="{{asset("public/assets/images/ciklum.png")}}" alt="..." />
+                            <img class="img-fluid" src="{{asset("assets/images/ciklum.png")}}" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 2  ### interpreter-->
@@ -115,7 +115,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="{{asset("public/assets/images/teleperformance.jpeg")}}" alt="..." />
+                            <img class="img-fluid" src="{{asset("assets/images/teleperformance.jpeg")}}" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 3  ### AGTOlls-->
@@ -124,7 +124,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="{{asset("public/assets/images/agtools_logo.jpeg")}}" alt="..." />
+                            <img class="img-fluid" src="{{asset("assets/images/agtools_logo.jpeg")}}" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 4 ### giddings-->
@@ -133,7 +133,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="{{asset("public/assets/images/sunbelle.jpeg")}}" alt="..." />
+                            <img class="img-fluid" src="{{asset("assets/images/sunbelle.jpeg")}}" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 5 ## anyness-->
@@ -142,7 +142,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="{{asset("public/assets/images/anyness.png")}}" alt="..." />
+                            <img class="img-fluid" src="{{asset("assets/images/anyness.png")}}" alt="..." />
                         </div>
                     </div>
                     <!-- Portfolio Item 6  ### aprender para la vida-->
@@ -151,7 +151,7 @@
                             <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                 <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-plus fa-3x"></i></div>
                             </div>
-                            <img class="img-fluid" src="{{asset("public/assets/images/school.png")}}" alt="..." />
+                            <img class="img-fluid" src="{{asset("assets/images/school.png")}}" alt="..." />
                         </div>
                     </div>
                 </div>
@@ -547,7 +547,7 @@
                                     </div>
                                     <p class="mb-4">- Abril 2024 a Febrero 2025: Casi un año de experiencia en soporte IT (Service Desk) de nivel L2, como agente bilingüe para Ciklum (anteriormente conocido como "Infogen Labs").  </p>
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="{{asset("public/assets/images/ciklum.png")}}" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="{{asset("assets/images/ciklum.png")}}" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4"> Estaba encargado de proporcionar soporte informático remoto a varias sucursales de uno de los clientes de Ciklum, Skechers, en todo el continente (América del Norte y del Sur). Atendía tanto llamadas de nivel 1 como de nivel 2, cubriendo problemas que iban desde aplicaciones básicas de Windows (como Outlook que no cargaba la bandeja de entrada o recuperación de archivos perdidos) hasta la resolución de problemas con su software personalizado de punto de venta (PoS), así como la investigación de problemas con APIs, sus endpoints o webhooks. Procedía al análisis de sus redes para identificar problemas frecuentes como tormentas de broadcast, colisiones de paquetes, DHCP, etc. </p>
                                     <p class="mb-4">Infogen's contact: 
@@ -661,7 +661,7 @@
                                      <p class="mb-4">- Febrero 2021 a Marzo 2022: 1 año de experiencia en la planta empacadora de aguacates llamada "SunBelle" (anteriormente conocida como "Giddings").</p>
 
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="{{asset("public/assets/images/sunbelle.jpeg")}}"  alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="{{asset("assets/images/sunbelle.jpeg")}}"  alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Febrero 2021 a Marzo 2022: 1 año de experiencia en la planta empacadora de aguacates llamada "SunBelle" (anteriormente conocida como "Giddings").</p>
                                     <p class="mb-4">Sunbelle: 
@@ -699,7 +699,7 @@
                                     <p class="mb-4">- Enero 2020 a Febrero 2021: 1 año de experiencia en la empresa "Anyness".</p>
 
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="{{asset("public/assets/images/anyness.png")}}" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="{{asset("assets/images/anyness.png")}}" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Trabajé aquí inicialmente en modalidad de "teletrabajo", gracias al COVID-19, como asistente de soporte informático, además de trabajar como desarrollador de Wordpress para el sitio web de Anyness.</p>
                                     <p class="mb-4">Anyness: 
@@ -737,7 +737,7 @@
                                     <p class="mb-4">- Enero 2019 a Diciembre 2019: Casi 1 año de experiencia trabajando en la escuela "Aprender para la Vida".</p>
 
                                     <!-- Portfolio Modal - Image-->
-                                    <img class="img-fluid rounded mb-5" src="{{asset("public/assets/images/school.png")}}" alt="..." />
+                                    <img class="img-fluid rounded mb-5" src="{{asset("assets/images/school.png")}}" alt="..." />
                                     <!-- Portfolio Modal - Text-->
                                     <p class="mb-4">Trabajé realizando la creación o gestión de conexiones y enlaces para las cámaras CCTV, la red privada de la escuela, entre otras tareas.</p>
                                     <p class="mb-4">Contacto: 
@@ -758,7 +758,7 @@
         <!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
-        <script src="js/scripts.js"></script>
+        <script src="{{asset("assets/js/scripts.js")}}"></script>
         <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
         <!-- * *                               SB Forms JS                               * *-->
         <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
